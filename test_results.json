@@ -1,0 +1,2292 @@
+[
+  {
+    "filename": "240323269_ResultsReport(5439)YRV-240323269 - 26-Mar-2024-15_10_08",
+    "isExplanation": false,
+    "patient_data": {
+      "surname": "Wilks",
+      "forename": "Roy",
+      "date_of_birth": "26/08/1967",
+      "sample_number": "YRV-240323269",
+      "sex": "Male",
+      "lab_no": "5439",
+      "sample_dated": "23/03/2024 12",
+      "sample_received": "26/03/2024 10",
+      "result_reported": "26/03/2024 10",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "results": [
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haemoglobin",
+        "Value": "169",
+        "Range": "130 - 170 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Blood Cell",
+        "Value": "4.84",
+        "Range": "4.40 - 5.8 x10\u00b9\u00b2/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haematocrit",
+        "Value": "0.507",
+        "Range": "0.38 - 0.50 L/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Volume",
+        "Value": "104.7",
+        "Range": "80 - 96 fL",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Cell Distribution",
+        "Value": "15.7",
+        "Range": "11.5 - 14.4 %",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Hb",
+        "Value": "35",
+        "Range": "27.0 - 33.0 pg",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MCHC",
+        "Value": "334",
+        "Range": "300 - 350 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Platelets",
+        "Value": "225",
+        "Range": "150 - 400 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MPV",
+        "Value": "10.7",
+        "Range": "7 - 13 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "White Blood Cells",
+        "Value": "10.43",
+        "Range": "3 - 10 x10\u2079/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Neutrophils",
+        "Value": "6.69",
+        "Range": "2.0 - 7.5 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Monocytes",
+        "Value": "0.55",
+        "Range": "0.2 - 1 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Basophils",
+        "Value": "0.06",
+        "Range": "0.00 - 0.10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Eosinophils",
+        "Value": "0.3",
+        "Range": "0.0 - 0.4 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Lymphocytes",
+        "Value": "2.83",
+        "Range": "1.20 - 3.65 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Albumin",
+        "Value": "45.7",
+        "Range": "35.0 - 50.0 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CK",
+        "Value": "774",
+        "Range": "39.0 - 380.0 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Iron",
+        "Value": "19.63",
+        "Range": "5.80 - 34.50 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Total Protein",
+        "Value": "72.2",
+        "Range": "60 - 80 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Globulin",
+        "Value": "27",
+        "Range": "19 - 35 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "T.I.B.C",
+        "Value": "59",
+        "Range": "42.96 - 80.55 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Transferrin Saturation",
+        "Value": "33",
+        "Range": "20 - 50 %",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Urea",
+        "Value": "14.6",
+        "Range": "2.50 - 7.8 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Creatinine",
+        "Value": "192",
+        "Range": "59.0 - 104.0 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Sodium",
+        "Value": "140.2",
+        "Range": "133.0 - 146.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "eGFR (Caucasian Only)",
+        "Value": "32",
+        "Range": ">60 unless evidence of CKD ml/min/1.73m^2",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "GGT",
+        "Value": "17",
+        "Range": "8.0 - 61.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALP",
+        "Value": "76",
+        "Range": "30 - 130 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALT",
+        "Value": "50.1",
+        "Range": "<50 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "Total Bilirubin",
+        "Value": "4.8",
+        "Range": "<24 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Bone Screen",
+        "Parameter": "Uric Acid",
+        "Value": "376",
+        "Range": "200 - 430 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Cholesterol",
+        "Value": "4.76",
+        "Range": "<5.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "HDL",
+        "Value": "1.26",
+        "Range": ">1.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "LDL",
+        "Value": "2.74",
+        "Range": "<3.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Triglycerides",
+        "Value": "1.46",
+        "Range": "<1.70 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Non HDL Cholesterol",
+        "Value": "3.5",
+        "Range": "< 4.0 nmo/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Chol: HDL ratio",
+        "Value": "3.78",
+        "Range": "< 4.0 ratio",
+        "Comments": "",
+        "H/L": null
+      }
+    ]
+  },
+  {
+    "filename": "240324021_ResultsReport(5368)YRV-240324021 - 18-Mar-2024-20_34_06",
+    "isExplanation": false,
+    "patient_data": {
+      "surname": "Carter",
+      "forename": "John",
+      "date_of_birth": "16/10/1991",
+      "sample_number": "YRV-240324021",
+      "sex": "Male",
+      "lab_no": "5368",
+      "sample_dated": "16/03/2024 11",
+      "sample_received": "18/03/2024 12",
+      "result_reported": "18/03/2024 19",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "results": [
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haemoglobin",
+        "Value": "166",
+        "Range": "130 - 170 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Blood Cell",
+        "Value": "5.6",
+        "Range": "4.40 - 5.8 x10\u00b9\u00b2/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haematocrit",
+        "Value": "0.487",
+        "Range": "0.38 - 0.50 L/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Volume",
+        "Value": "86.9",
+        "Range": "80 - 96 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Cell Distribution",
+        "Value": "13",
+        "Range": "11.5 - 14.4 %",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Hb",
+        "Value": "29.6",
+        "Range": "27.0 - 33.0 pg",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MCHC",
+        "Value": "340",
+        "Range": "300 - 350 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Platelets",
+        "Value": "249",
+        "Range": "150 - 400 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MPV",
+        "Value": "9.7",
+        "Range": "7 - 13 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "White Blood Cells",
+        "Value": "5.86",
+        "Range": "3 - 10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Neutrophils",
+        "Value": "3.47",
+        "Range": "2.0 - 7.5 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Monocytes",
+        "Value": "0.37",
+        "Range": "0.2 - 1 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Basophils",
+        "Value": "0.05",
+        "Range": "0.00 - 0.10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Eosinophils",
+        "Value": "0.12",
+        "Range": "0.0 - 0.4 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Lymphocytes",
+        "Value": "1.85",
+        "Range": "1.20 - 3.65 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CRP",
+        "Value": "0.46",
+        "Range": "<5.0 mg/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Albumin",
+        "Value": "47.5",
+        "Range": "35.0 - 50.0 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CK",
+        "Value": "369",
+        "Range": "39.0 - 380.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Iron",
+        "Value": "19.36",
+        "Range": "5.80 - 34.50 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Total Protein",
+        "Value": "73.5",
+        "Range": "60 - 80 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Globulin",
+        "Value": "26",
+        "Range": "19 - 35 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Ferritin",
+        "Value": "171.9",
+        "Range": "30 - 400 ug/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "HbA1c-(IFCC)",
+        "Value": "30.06",
+        "Range": "20 - <42 Non-diabetic mmol/mol",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": ">=",
+        "Value": "48",
+        "Range": "Diabetes",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Urea",
+        "Value": "7.2",
+        "Range": "2.50 - 7.8 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Creatinine",
+        "Value": "119",
+        "Range": "59.0 - 104.0 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Sodium",
+        "Value": "133.3",
+        "Range": "133.0 - 146.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "eGFR (Caucasian Only)",
+        "Value": "61",
+        "Range": ">60 unless evidence of CKD ml/min/1.73m^2",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "GGT",
+        "Value": "46",
+        "Range": "8.0 - 61.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALP",
+        "Value": "98",
+        "Range": "30 - 130 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALT",
+        "Value": "56.2",
+        "Range": "<50 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "Total Bilirubin",
+        "Value": "7.8",
+        "Range": "<24 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Bone Screen",
+        "Parameter": "Uric Acid",
+        "Value": "432",
+        "Range": "200 - 430 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Cholesterol",
+        "Value": "4.94",
+        "Range": "<5.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "HDL",
+        "Value": "0.92",
+        "Range": ">1.0 mmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "LDL",
+        "Value": "3.19",
+        "Range": "<3.0 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Triglycerides",
+        "Value": "1.76",
+        "Range": "<1.70 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Non HDL Cholesterol",
+        "Value": "4.02",
+        "Range": "< 4.0 nmo/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Chol: HDL ratio",
+        "Value": "5.37",
+        "Range": "< 4.0 ratio",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Cortisol",
+        "Value": "348.4",
+        "Range": "6am - 10am 166 - 507 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "4pm - 8pm",
+        "Value": "73.8",
+        "Range": "- 291",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Prolactin",
+        "Value": "122.6",
+        "Range": "86 - 324 mU/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Oestradiol",
+        "Value": "80.64",
+        "Range": "41 - 159 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Progesterone",
+        "Value": "0.898",
+        "Range": "0 - 3.18 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "LH",
+        "Value": "2.37",
+        "Range": "1.70 - 8.60 IU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "FSH",
+        "Value": "3.3",
+        "Range": "1.50 - 12.40 IU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "DHEA-S",
+        "Value": "5.24",
+        "Range": "4.34 - 12.20 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "SHBG",
+        "Value": "22.85",
+        "Range": "20.60 - 76.70 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T4",
+        "Value": "14.96",
+        "Range": "12 - 22 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "TSH",
+        "Value": "2.56",
+        "Range": "0.270 - 4.200 mU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T3",
+        "Value": "6.2",
+        "Range": "3.1 - 6.8 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Markers",
+        "Parameter": "Total PSA",
+        "Value": "0.494",
+        "Range": "<1.2 ng/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroglobulin Abs",
+        "Value": "20.77",
+        "Range": "< 115 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroidperoxidase abs",
+        "Value": "24.63",
+        "Range": "0.10 - 34.00 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin B12",
+        "Value": "262.4",
+        "Range": "180 - 700 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Folate",
+        "Value": "9.59",
+        "Range": "8.83 - 60.8 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin D",
+        "Value": "3",
+        "Range": "L 21.8 Optimal 75-200 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Insufficient",
+        "Value": "25",
+        "Range": "-<50",
+        "Comments": "",
+        "H/L": null
+      }
+    ]
+  },
+  {
+    "filename": "240324111_ResultsReport(5079)YRV-240324111 - 2-Mar-2024-15_34_36",
+    "isExplanation": false,
+    "patient_data": {
+      "surname": "baig",
+      "forename": "ozayr",
+      "date_of_birth": "17/01/1993",
+      "sample_number": "YRV-240324111",
+      "sex": "Male",
+      "lab_no": "5079",
+      "sample_dated": "01/03/2024 11",
+      "sample_received": "02/03/2024 11",
+      "result_reported": "02/03/2024 15",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "results": [
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haemoglobin",
+        "Value": "144",
+        "Range": "130 - 170 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Blood Cell",
+        "Value": "4.64",
+        "Range": "4.40 - 5.8 x10\u00b9\u00b2/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haematocrit",
+        "Value": "0.439",
+        "Range": "0.38 - 0.50 L/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Volume",
+        "Value": "94.6",
+        "Range": "80 - 96 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Cell Distribution",
+        "Value": "14.4",
+        "Range": "11.5 - 14.4 %",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Hb",
+        "Value": "31",
+        "Range": "27.0 - 33.0 pg",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MCHC",
+        "Value": "327",
+        "Range": "300 - 350 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Platelets",
+        "Value": "244",
+        "Range": "150 - 400 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MPV",
+        "Value": "10.3",
+        "Range": "7 - 13 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "White Blood Cells",
+        "Value": "5.52",
+        "Range": "3 - 10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Neutrophils",
+        "Value": "2.54",
+        "Range": "2.0 - 7.5 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Monocytes",
+        "Value": "0.53",
+        "Range": "0.2 - 1 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Basophils",
+        "Value": "0.03",
+        "Range": "0.00 - 0.10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Eosinophils",
+        "Value": "0.24",
+        "Range": "0.0 - 0.4 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Lymphocytes",
+        "Value": "2.18",
+        "Range": "1.20 - 3.65 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CRP",
+        "Value": "1.05",
+        "Range": "<5.0 mg/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Albumin",
+        "Value": "45.9",
+        "Range": "35.0 - 50.0 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CK",
+        "Value": "336",
+        "Range": "39.0 - 380.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Iron",
+        "Value": "12.07",
+        "Range": "5.80 - 34.50 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Total Protein",
+        "Value": "72.5",
+        "Range": "60 - 80 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Globulin",
+        "Value": "27",
+        "Range": "19 - 35 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Ferritin",
+        "Value": "451.3",
+        "Range": "30 - 400 ug/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "HbA1c-(IFCC)",
+        "Value": "54.65",
+        "Range": "20 - <42 Non-diabetic mmol/mol",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": ">=",
+        "Value": "48",
+        "Range": "Diabetes",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Urea",
+        "Value": "8.9",
+        "Range": "2.50 - 7.8 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Creatinine",
+        "Value": "122",
+        "Range": "59.0 - 104.0 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Sodium",
+        "Value": "138.5",
+        "Range": "133.0 - 146.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "eGFR (Caucasian Only)",
+        "Value": "60",
+        "Range": ">60 unless evidence of CKD ml/min/1.73m^2",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "GGT",
+        "Value": "11",
+        "Range": "8.0 - 61.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALP",
+        "Value": "73",
+        "Range": "30 - 130 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALT",
+        "Value": "20.3",
+        "Range": "<50 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "Total Bilirubin",
+        "Value": "12.6",
+        "Range": "<24 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Bone Screen",
+        "Parameter": "Uric Acid",
+        "Value": "379",
+        "Range": "200 - 430 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Cholesterol",
+        "Value": "7.18",
+        "Range": "<5.0 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "HDL",
+        "Value": "2.17",
+        "Range": ">1.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "LDL",
+        "Value": "4.69",
+        "Range": "<3.0 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Triglycerides",
+        "Value": "0.64",
+        "Range": "<1.70 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Non HDL Cholesterol",
+        "Value": "5.01",
+        "Range": "< 4.0 nmo/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Chol: HDL ratio",
+        "Value": "3.31",
+        "Range": "< 4.0 ratio",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Cortisol",
+        "Value": "410.9",
+        "Range": "6am - 10am 166 - 507 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "4pm - 8pm",
+        "Value": "73.8",
+        "Range": "- 291",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Prolactin",
+        "Value": "278.9",
+        "Range": "86 - 324 mU/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Oestradiol",
+        "Value": "124.3",
+        "Range": "41 - 159 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Progesterone",
+        "Value": "0.949",
+        "Range": "0 - 3.18 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "LH",
+        "Value": "7.52",
+        "Range": "1.70 - 8.60 IU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "FSH",
+        "Value": "3.19",
+        "Range": "1.50 - 12.40 IU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "DHEA-S",
+        "Value": "10.1",
+        "Range": "4.34 - 12.20 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "SHBG",
+        "Value": "87.36",
+        "Range": "20.60 - 76.70 nmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T4",
+        "Value": "16.64",
+        "Range": "12 - 22 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "TSH",
+        "Value": "2.51",
+        "Range": "0.270 - 4.200 mU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T3",
+        "Value": "3.39",
+        "Range": "3.1 - 6.8 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Markers",
+        "Parameter": "Total PSA",
+        "Value": "0.719",
+        "Range": "<1.2 ng/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroglobulin Abs",
+        "Value": "15.83",
+        "Range": "< 115 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroidperoxidase abs",
+        "Value": "35.98",
+        "Range": "0.10 - 34.00 IU/ml",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin B12",
+        "Value": "675.8",
+        "Range": "180 - 700 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Folate >",
+        "Value": "45.4",
+        "Range": "8.83 - 60.8 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin D",
+        "Value": "3",
+        "Range": "98.69 Optimal 75-200 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Insufficient",
+        "Value": "25",
+        "Range": "-<50",
+        "Comments": "",
+        "H/L": null
+      }
+    ]
+  },
+  {
+    "filename": "240324341_ResultsReport(5235)YRV-240324341 - 11-Mar-2024-14_53_18",
+    "isExplanation": false,
+    "patient_data": {
+      "surname": "Williams",
+      "forename": "Lee",
+      "date_of_birth": "29/07/1977",
+      "sample_number": "YRV-240324341",
+      "sex": "Male",
+      "lab_no": "5235",
+      "sample_dated": "09/03/2024 10",
+      "sample_received": "11/03/2024 11",
+      "result_reported": "11/03/2024 14",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "results": [
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haemoglobin",
+        "Value": "183",
+        "Range": "130 - 170 g/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Blood Cell",
+        "Value": "5.83",
+        "Range": "4.40 - 5.8 x10\u00b9\u00b2/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haematocrit",
+        "Value": "0.549",
+        "Range": "0.38 - 0.50 L/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Volume",
+        "Value": "94.2",
+        "Range": "80 - 96 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Cell Distribution",
+        "Value": "13.9",
+        "Range": "11.5 - 14.4 %",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Hb",
+        "Value": "31.4",
+        "Range": "27.0 - 33.0 pg",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MCHC",
+        "Value": "333",
+        "Range": "300 - 350 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Platelets",
+        "Value": "200",
+        "Range": "150 - 400 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MPV",
+        "Value": "10.3",
+        "Range": "7 - 13 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "White Blood Cells",
+        "Value": "5.78",
+        "Range": "3 - 10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Neutrophils",
+        "Value": "3.75",
+        "Range": "2.0 - 7.5 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Monocytes",
+        "Value": "0.56",
+        "Range": "0.2 - 1 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Basophils",
+        "Value": "0.04",
+        "Range": "0.00 - 0.10 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Eosinophils",
+        "Value": "0.08",
+        "Range": "0.0 - 0.4 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Lymphocytes",
+        "Value": "1.35",
+        "Range": "1.20 - 3.65 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CRP",
+        "Value": "1.23",
+        "Range": "<5.0 mg/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Albumin",
+        "Value": "44.2",
+        "Range": "35.0 - 50.0 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CK",
+        "Value": "464",
+        "Range": "39.0 - 380.0 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Iron",
+        "Value": "31.33",
+        "Range": "5.80 - 34.50 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Total Protein",
+        "Value": "68.6",
+        "Range": "60 - 80 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Globulin",
+        "Value": "24",
+        "Range": "19 - 35 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Ferritin",
+        "Value": "90.47",
+        "Range": "30 - 400 ug/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "HbA1c-(IFCC)",
+        "Value": "32.9",
+        "Range": "20 - <42 Non-diabetic mmol/mol",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": ">=",
+        "Value": "48",
+        "Range": "Diabetes",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Urea",
+        "Value": "6.6",
+        "Range": "2.50 - 7.8 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Creatinine",
+        "Value": "119",
+        "Range": "59.0 - 104.0 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Sodium",
+        "Value": "130.1",
+        "Range": "133.0 - 146.0 mmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "eGFR (Caucasian Only)",
+        "Value": "57",
+        "Range": ">60 unless evidence of CKD ml/min/1.73m^2",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "GGT",
+        "Value": "21",
+        "Range": "8.0 - 61.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALP",
+        "Value": "61",
+        "Range": "30 - 130 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALT",
+        "Value": "69.1",
+        "Range": "<50 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "Total Bilirubin",
+        "Value": "12.7",
+        "Range": "<24 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Bone Screen",
+        "Parameter": "Uric Acid",
+        "Value": "267",
+        "Range": "200 - 430 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Cholesterol",
+        "Value": "3.46",
+        "Range": "<5.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "HDL",
+        "Value": "0.89",
+        "Range": ">1.0 mmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "LDL",
+        "Value": "1.97",
+        "Range": "<3.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Triglycerides",
+        "Value": "1.45",
+        "Range": "<1.70 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Non HDL Cholesterol",
+        "Value": "2.57",
+        "Range": "< 4.0 nmo/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Chol: HDL ratio",
+        "Value": "3.89",
+        "Range": "< 4.0 ratio",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Cortisol",
+        "Value": "325.2",
+        "Range": "6am - 10am 166 - 507 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "4pm - 8pm",
+        "Value": "73.8",
+        "Range": "- 291",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Prolactin",
+        "Value": "410.7",
+        "Range": "86 - 324 mU/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Oestradiol",
+        "Value": "107.9",
+        "Range": "41 - 159 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Progesterone",
+        "Value": "0.307",
+        "Range": "0 - 3.18 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "LH <",
+        "Value": "0.1",
+        "Range": "1.70 - 8.60 IU/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "FSH <",
+        "Value": "0.3",
+        "Range": "1.50 - 12.40 IU/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "DHEA-S",
+        "Value": "9.86",
+        "Range": "1.20 - 8.98 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "SHBG",
+        "Value": "11.05",
+        "Range": "20.60 - 76.70 nmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T4",
+        "Value": "16.49",
+        "Range": "12 - 22 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "TSH",
+        "Value": "2.81",
+        "Range": "0.270 - 4.200 mU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T3",
+        "Value": "5.97",
+        "Range": "3.1 - 6.8 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Markers",
+        "Parameter": "Total PSA",
+        "Value": "1.17",
+        "Range": "<1.6 ng/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroglobulin Abs",
+        "Value": "102.7",
+        "Range": "< 115 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroidperoxidase abs",
+        "Value": "16.73",
+        "Range": "0.10 - 34.00 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin B12",
+        "Value": "296.3",
+        "Range": "180 - 700 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Folate",
+        "Value": "13.6",
+        "Range": "8.83 - 60.8 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin D",
+        "Value": "3",
+        "Range": "65.81 Optimal 75-200 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Insufficient",
+        "Value": "25",
+        "Range": "-<50",
+        "Comments": "",
+        "H/L": null
+      }
+    ]
+  },
+  {
+    "filename": "240334557_ResultsReport(5158)YRV-240334557 - 5-Mar-2024-20_02_26",
+    "isExplanation": false,
+    "patient_data": {
+      "surname": "Cook",
+      "forename": "Jamie",
+      "date_of_birth": "04/02/1995",
+      "sample_number": "YRV-240334557",
+      "sex": "Male",
+      "lab_no": "5158",
+      "sample_dated": "02/03/2024 18",
+      "sample_received": "05/03/2024 12",
+      "result_reported": "05/03/2024 20",
+      "sample_type": "V - EDTA / V - Na2 EDTA / V - Yellow"
+    },
+    "results": [
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haemoglobin",
+        "Value": "140",
+        "Range": "130 - 170 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Blood Cell",
+        "Value": "5.88",
+        "Range": "4.40 - 5.8 x10\u00b9\u00b2/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Haematocrit",
+        "Value": "0.429",
+        "Range": "0.38 - 0.50 L/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Volume LL",
+        "Value": "73",
+        "Range": "80 - 96 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Red Cell Distribution",
+        "Value": "16.6",
+        "Range": "11.5 - 14.4 %",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Mean Cell Hb",
+        "Value": "23.8",
+        "Range": "27.0 - 33.0 pg",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MCHC",
+        "Value": "326",
+        "Range": "300 - 350 g/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Platelets",
+        "Value": "404",
+        "Range": "150 - 400 x10\u2079/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "MPV",
+        "Value": "10.5",
+        "Range": "7 - 13 fL",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "White Blood Cells",
+        "Value": "12.45",
+        "Range": "3 - 10 x10\u2079/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Neutrophils",
+        "Value": "5.7",
+        "Range": "2.0 - 7.5 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Monocytes",
+        "Value": "1.11",
+        "Range": "0.2 - 1 x10\u2079/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Basophils",
+        "Value": "0.13",
+        "Range": "0.00 - 0.10 x10\u2079/L",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Eosinophils",
+        "Value": "0.06",
+        "Range": "0.0 - 0.4 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Full Blood Count",
+        "Parameter": "Lymphocytes HH",
+        "Value": "5.45",
+        "Range": "1.20 - 3.65 x10\u2079/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CRP",
+        "Value": "66.16",
+        "Range": "<5.0 mg/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Albumin",
+        "Value": "45.6",
+        "Range": "35.0 - 50.0 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "CK",
+        "Value": "1821",
+        "Range": "39.0 - 380.0 U/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Iron",
+        "Value": "5.37",
+        "Range": "5.80 - 34.50 umol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Total Protein",
+        "Value": "78.6",
+        "Range": "60 - 80 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Calcium",
+        "Value": "2.45",
+        "Range": "2.20 - 2.60 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Magnesium",
+        "Value": "0.81",
+        "Range": "0.70 - 1.00 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Glucose",
+        "Value": "4.03",
+        "Range": "4 - 7 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Globulin",
+        "Value": "33",
+        "Range": "19 - 35 g/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "T.I.B.C",
+        "Value": "53",
+        "Range": "42.96 - 80.55 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Transferrin Saturation",
+        "Value": "10",
+        "Range": "20 - 50 %",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "Ferritin",
+        "Value": "132.4",
+        "Range": "30 - 400 ug/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": "HbA1c-(IFCC)",
+        "Value": "31.92",
+        "Range": "20 - <42 Non-diabetic mmol/mol",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Biochemistry",
+        "Parameter": ">=",
+        "Value": "48",
+        "Range": "Diabetes",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Cystatin C",
+        "Value": "0.84",
+        "Range": "<1.00 mg/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Urea",
+        "Value": "11.4",
+        "Range": "2.50 - 7.8 mmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Creatinine",
+        "Value": "115",
+        "Range": "59.0 - 104.0 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "Sodium",
+        "Value": "127.2",
+        "Range": "133.0 - 146.0 mmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Kidney Function",
+        "Parameter": "eGFR (Caucasian Only)",
+        "Value": "65",
+        "Range": ">60 unless evidence of CKD ml/min/1.73m^2",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "GGT",
+        "Value": "17",
+        "Range": "8.0 - 61.0 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALP",
+        "Value": "51",
+        "Range": "30 - 130 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "ALT",
+        "Value": "33.8",
+        "Range": "<50 U/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Liver Function",
+        "Parameter": "Total Bilirubin",
+        "Value": "8.1",
+        "Range": "<24 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Bone Screen",
+        "Parameter": "Uric Acid",
+        "Value": "239",
+        "Range": "200 - 430 umol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Cholesterol",
+        "Value": "3.34",
+        "Range": "<5.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "HDL",
+        "Value": "1.12",
+        "Range": ">1.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "LDL",
+        "Value": "1.84",
+        "Range": "<3.0 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Triglycerides",
+        "Value": "0.43",
+        "Range": "<1.70 mmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Non HDL Cholesterol",
+        "Value": "2.22",
+        "Range": "< 4.0 nmo/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Lipids",
+        "Parameter": "Chol: HDL ratio",
+        "Value": "2.98",
+        "Range": "< 4.0 ratio",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Cortisol",
+        "Value": "278.4",
+        "Range": "6am - 10am 166 - 507 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "4pm - 8pm",
+        "Value": "73.8",
+        "Range": "- 291",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Prolactin",
+        "Value": "200.3",
+        "Range": "86 - 324 mU/L",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Oestradiol",
+        "Value": "172.6",
+        "Range": "41 - 159 pmol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "Progesterone",
+        "Value": "2.81",
+        "Range": "0 - 3.18 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "LH <",
+        "Value": "0.1",
+        "Range": "1.70 - 8.60 IU/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "FSH <",
+        "Value": "0.3",
+        "Range": "1.50 - 12.40 IU/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "DHEA-S",
+        "Value": "17.45",
+        "Range": "4.34 - 12.20 umol/l",
+        "Comments": "",
+        "H/L": "H"
+      },
+      {
+        "Test Name": "Hormones",
+        "Parameter": "SHBG",
+        "Value": "14.97",
+        "Range": "20.60 - 76.70 nmol/l",
+        "Comments": "",
+        "H/L": "L"
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T4",
+        "Value": "18.38",
+        "Range": "12 - 22 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "TSH",
+        "Value": "1.24",
+        "Range": "0.270 - 4.200 mU/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Thyroid Function",
+        "Parameter": "Free T3",
+        "Value": "4.46",
+        "Range": "3.1 - 6.8 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Markers",
+        "Parameter": "Total PSA",
+        "Value": "0.443",
+        "Range": "<1.2 ng/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroglobulin Abs",
+        "Value": "23.28",
+        "Range": "< 115 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Immunology",
+        "Parameter": "Anti-Thyroidperoxidase abs",
+        "Value": "28.26",
+        "Range": "0.10 - 34.00 IU/ml",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin B12",
+        "Value": "404.8",
+        "Range": "180 - 700 pmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Folate",
+        "Value": "31.59",
+        "Range": "8.83 - 60.8 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Vitamin D",
+        "Value": "3",
+        "Range": "111.8 Optimal 75-200 nmol/l",
+        "Comments": "",
+        "H/L": null
+      },
+      {
+        "Test Name": "Vitamins",
+        "Parameter": "Insufficient",
+        "Value": "25",
+        "Range": "-<50",
+        "Comments": "",
+        "H/L": null
+      }
+    ]
+  }
+]

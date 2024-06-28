@@ -1,0 +1,499 @@
+[
+  {
+    "filename": "240323269_basic_ExplanationReport(5439)YRV-240323269 - 27-Mar-2024-18_19_56",
+    "isExplanation": true,
+    "patient_data": {
+      "surname": "Wilks",
+      "forename": "Roy",
+      "date_of_birth": "26/08/1967",
+      "sample_number": "YRV-240323269",
+      "sex": "Male",
+      "lab_no": "5439",
+      "sample_dated": "23/03/2024 12",
+      "sample_received": "26/03/2024 10",
+      "result_reported": "26/03/2024 10",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "explanations": [
+      {
+        "test": "Haematocrit (PCV)",
+        "result": "Result H 0.507",
+        "range": "Range L/L 0.38 - 0.50",
+        "explanation": "This screening measures how much of your blood is made of red blood cells. A haematocrit measurement is useful in identifying anaemia, bleeding disorders, liver disease and red cell production within the circulatory system, Haematocrit also shows the oxygen carrying capacity of blood. Blood contains several different types of cells. Haematocrit describes the volume of red cells in the blood it is shown as a percentage of the total blood. High, bone marrow disorder, blood disease, dengue fever, dehydration, lung disease (COPD), AAS use, shock. Low, low blood oxygen, anaemia, haemorrhage, heavy bleeding with menstruation, Hodgkin\u2122s lymphoma, heart failure, chronic kidney disease, leukaemia, toxins."
+      },
+      {
+        "test": "Mean Cell Volume",
+        "result": "Result H 104.7",
+        "range": "Range fL 80 - 96",
+        "explanation": "MCV is a measurement of the average volume of red blood cells. It may appear normal or small/larger than normal. High, indicates large or macrocytic RBC (anaemia), associated with specific hereditary anaemia, increased serum homocysteine, excess alcohol consumption, high altitude. Low, internal bleeding, iron anaemia, free radicals, intestinal parasites, heavy metal excess, gluten intolerance in gastrointestinal tract, vitamin b6 depletion."
+      },
+      {
+        "test": "Red Cell Distribution",
+        "result": "Result H 15.7",
+        "range": "Range % 11.5 - 14.4",
+        "explanation": "The red cell distribution width (RDW) blood test is a calculation of the variation in the size and shape of red blood cells. In this case, fiwidthfl refers to the measurement of distribution, not the size of the cells. You need red blood cells to carry oxygen from your lungs to every part of your body. Anything outside of the normal range in red blood cell width or volume indicates a possible problem with bodily function that in turn may affect oxygen getting to various parts of your body. However, with certain diseases, you may still have a normal RDW. Normal red blood cells maintain a standard size of 6 to 8 micrometres in diameter. If cells are larger, your RDW blood test values will have higher numbers. High, iron deficiency anaemia, bone marrow disorder, reticulocytosis, liver disease, AAS use. Low, Normal not important."
+      },
+      {
+        "test": "Mean Cell Haemoglobin",
+        "result": "Result H 35",
+        "range": "Range pg 27.0 - 33.0",
+        "explanation": "MCH is a calculation of the amount of oxygen-carrying haemoglobin (RBC) It is calculated by dividing the mass of HgB by volume of red blood cells. Haemoglobin is the oxygen carrying molecule in blood. Higher levels of haemoglobin the greater oxygen capability thus increased cardio endurance. Mean cell haemoglobin is the average mass of haemoglobin per each red blood cell. This means the concentration of haemoglobin the red blood cell is too high and is normally accompanied by an increase in mean cell volume (which in this case is just below the upper limit) this is usually caused by a low number of red blood cells which is compensated for by making the cells larger. if you look at the RBC count you will see that it is low. High, associated with an increased level of haemoglobin leading to anaemia (macrocytic), caused by insufficient levels of folic acid and vitamin B12. Low, caused by iron-deficiency anaemia or hyperchromic anaemia, vitamin deficiency in conjunction with low mean corpuscular volume (small RBCs)."
+      },
+      {
+        "test": "White blood cells",
+        "result": "Result H 10.43",
+        "range": "Range x10\u2079/L 3 - 10",
+        "explanation": "WBCs (or leukocytes) play an important role in the health of the immune system. They are produced in the bone marrow and act as the body\u2122s protectors against infectious disease and foreign invaders that lead to illness and/or injury. Slightly low WBCs may be a natural level for some people. When a person gets an infection, WBCs will increase in numbers in order to attack the invaders. To bring WBCs levels back to normal, the spleen and the rest of the lymphatic system (which produces white blood cells, or corpuscles) needs to be brought back to balance. High, (leucocytosis) bacterial infections, blood disorders, leukaemia, allergies, asthma, tissue damage, anxiety, strenuous exercise, severe stress, inflammation. Low, (leukopenia) may be caused by bone marrow disease, most autoimmune diseases, fungal infections, sepsis, lymphoma, anaemia, diabetes, viral infections, toxic blood. A false low can be created by marijuana use."
+      },
+      {
+        "test": "C. K",
+        "result": "Result H 774",
+        "range": "Range U/l 39.0 - 380.0",
+        "explanation": "CK is elevated in cardiac conditions, muscular dystrophy, muscle damage/degeneration, brain damage/inflammation, and strenuous exercise, also other conditions include hypoparathyroidism, oedema, and influenza. CPK isoenzymes are broken down into three (3) categories: 1. CK:MM - derived from skeletal muscle. 2. CK: MB - derived from heart muscle. 3. CK:BB - derived from brain and nerve tissue and may also be a useful marker for prostate, breast, ovarian, colon, lung, and digestive tract cancers. High, when total CK level is remarkably high, it usually means there has been injury or stress to muscle tissue, heart, or brain. This can include heart attack, heart muscle inflammation, heart injury, muscular dystrophy, brain injury, convulsions, electric shock. False high, excessive alcohol intake, high protein diet, strenuous exercise. Low, of no importance."
+      },
+      {
+        "test": "eGFR",
+        "result": "Result L 32",
+        "range": "Range ml/min/>60 unless evidence of CKD",
+        "explanation": "1.73m^ 2 Estimated Glomerular filtration rate is a measure of the function of the kidneys. This test measures the level of creatinine in the blood and uses the result in a formula to calculate a number that reflects how well the kidneys are functioning, Glomeruli are tiny filters in the kidneys that allow waste products to be removed from the blood, while preventing the loss of important constituents, including proteins and blood cells. Every day. The eGFR refers to the amount of blood that is filtered by the glomeruli per minute. As a person's kidney function declines due to damage or disease, the filtration rate decreases, and waste products begin to accumulate in the blood. eGFR <60 indicates kidney disease. eGFR <15 indicates kidney failure. Low, factors likely to damage kidney function (heart disease, hypertension, diabetes, Hereditary, excessive bleeding, frequent urinary infections."
+      },
+      {
+        "test": "Urea",
+        "result": "Result H 14.6",
+        "range": "Range mmol/l2.50 - 7.8",
+        "explanation": "Urea/Uric acid is a waste product from protein digestion the ash of protein digestion it is stored in the kidneys, hence there is an increase along with BUN in kidney problems but also liver issues. High. Heavy metals, liver dysfunction, kidney dysfunction, cancer, pernicious anaemia, hyperthyroidism, diabetes, heart failure, hypertension and to some degree low testosterone. Also, dehydration. Low, levels are not common and are not usually a cause for concern. They can be seen in severe liver disease or malnutrition but are not used to diagnose or monitor these conditions."
+      },
+      {
+        "test": "Creatinine",
+        "result": "Result H 192",
+        "range": "Range umol/l 59.0 - 104.0",
+        "explanation": "Creatinine is a waste product by the body when creatine, a metabolism substance that helps convert food into energy, breaks down. Usually, your kidneys help filter creatinine out of the blood and the waste product is then passed out of the body via urine. High creatinine indicates a problem with your kidneys and is the most used indicator of kidney function. Creatinine is found in skeletal muscle and heart muscle. It is worth noting the weight training will also spike creatinine levels above normal and often above range limit. High, muscular dystrophy decrease in kidney function (nephritis), long term diabetes, extensive hypertension, shock, enlarged prostate, supplementation of creatine. False high, antibiotic overuse, sedatives, barbiturates, high dose vitamin C. Low, an extremely low protein diet, liver disease, decreased muscle mass (cachexia) False low, pregnancy, some BP drugs."
+      },
+      {
+        "test": "ALT",
+        "result": "Result H 50.1",
+        "range": "Range U/l <50",
+        "explanation": "Alanine aminotransferase (ALT) is an enzyme found mostly in the cells of the liver, skeletal and heart muscle. Much smaller amounts of it are also found in the heart and muscles. This test measures the level of ALT in the blood. The function of ALT is to convert alanine, an amino acid found in proteins, into pyruvate, an important intermediate in cellular energy production. In healthy individuals, ALT levels in the blood are low. When the liver is damaged, ALT is released into the blood, usually before more obvious signs of liver damage occur, such as jaundice. This makes ALT a useful test for early detection of liver damage. High, liver cell damage, heart failure, infection, bile duct failure, cirrhosis, liver tumour, jaundice, burns, severe shock, muscle trauma, pancreatitis. False high, antibiotics, antidepressants, alcohol, NSAIDS, beta blockers, cortisone, narcotics, birth control pill. Low, desirable, however look for malnutrition."
+      }
+    ],
+    "summary": "haematocrit is elevated indicating dehydration red cells are low in comparison to haemoglobin and as a result mean cell vol and mean cell hb have elevated supplementing with b12 and methyl folate (folic acid is very poorly absorbed and not very good) will increase red cells and lower these two red cell distribution has elevated due to the range of red cell sizes increasing this will lower with increase in red cells white cells are elevated indicating an immune response ck elevates with muscular inflammation urea is elevated as creatinine due to reduced kidney function from your meds im assuming you have had a kidney transplant supplementing with glutathione can help support kidney function and lower associated inflammation alt will elevate with ck and is not concerning"
+  },
+  {
+    "filename": "240324021_basic_ExplanationReport(5368)YRV-240324021 - 19-Mar-2024-06_29_02",
+    "isExplanation": true,
+    "patient_data": {
+      "surname": "Carter",
+      "forename": "John",
+      "date_of_birth": "16/10/1991",
+      "sample_number": "YRV-240324021",
+      "sex": "Male",
+      "lab_no": "5368",
+      "sample_dated": "16/03/2024 11",
+      "sample_received": "18/03/2024 12",
+      "result_reported": "18/03/2024 19",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "explanations": [
+      {
+        "test": "Creatinine",
+        "result": "Result H 119",
+        "range": "Range umol/l 59.0 - 104.0",
+        "explanation": "Creatinine is a waste product by the body when creatine, a metabolism substance that helps convert food into energy, breaks down. Usually, your kidneys help filter creatinine out of the blood and the waste product is then passed out of the body via urine. High creatinine indicates a problem with your kidneys and is the most used indicator of kidney function. Creatinine is found in skeletal muscle and heart muscle. It is worth noting the weight training will also spike creatinine levels above normal and often above range limit. High, muscular dystrophy decrease in kidney function (nephritis), long term diabetes, extensive hypertension, shock, enlarged prostate, supplementation of creatine. False high, antibiotic overuse, sedatives, barbiturates, high dose vitamin C. Low, an extremely low protein diet, liver disease, decreased muscle mass (cachexia) False low, pregnancy, some BP drugs."
+      },
+      {
+        "test": "ALT",
+        "result": "Result H 56.2",
+        "range": "Range U/l <50",
+        "explanation": "Alanine aminotransferase (ALT) is an enzyme found mostly in the cells of the liver, skeletal and heart muscle. Much smaller amounts of it are also found in the heart and muscles. This test measures the level of ALT in the blood. The function of ALT is to convert alanine, an amino acid found in proteins, into pyruvate, an important intermediate in cellular energy production. In healthy individuals, ALT levels in the blood are low. When the liver is damaged, ALT is released into the blood, usually before more obvious signs of liver damage occur, such as jaundice. This makes ALT a useful test for early detection of liver damage. High, liver cell damage, heart failure, infection, bile duct failure, cirrhosis, liver tumour, jaundice, burns, severe shock, muscle trauma, pancreatitis. False high, antibiotics, antidepressants, alcohol, NSAIDS, beta blockers, cortisone, narcotics, birth control pill. Low, desirable, however look for malnutrition."
+      },
+      {
+        "test": "Uric Acid",
+        "result": "Result H 432",
+        "range": "Range umol/l 200 - 430",
+        "explanation": "Uric acid is the end waste product from food digestion, cell breakdown and purine degradation. Purines are found in foods and drinks. These include liver anchovies, mackerel, dried beans, peas and beer. High, (Hyperuricemia), gout, gouty arthritis, hypertension, arthritis, diabetes, acidosis, high RBCs, cancer, leukaemia, liver or kidney damage, kidney stones, lead poisoning, downs syndrome, psoriasis, metabolic acidosis, alcoholism. False high, Alcohol, chemotherapy, aspirin, L-dopa, diuretics. Low, low zinc levels, kidney disease, Wilsons\u2122s disease, multiple sclerosis."
+      },
+      {
+        "test": "HDL",
+        "result": "Result L 0.92",
+        "range": "Range mmol/l>1.0",
+        "explanation": "High Density Lipoprotein, HDL, or good cholesterol. It is believed that the higher number the lower the risk. This is because the HDL cholesterol protects against heart disease by taking the bad cholesterol (LDL) out of the blood and keeping it away from building up in the arteries. High, decrease the risk of heart disease. Low, lower levels the greater the risk of heart attack, diabetes, bile obstruction, kidney and pancreas disease, underactive thyroid."
+      },
+      {
+        "test": "LDL cholesterol",
+        "result": "Result H 3.19",
+        "range": "Range mmol/l<3.0",
+        "explanation": "Some cholesterol comes from the food you eat, and some is made by your liver. It cannot dissolve in blood, so proteins carry it where it needs to go. These carriers are called lipoproteins. Lipoproteins are the compounds that allow non soluble fats to move through the blood stream. LDL is a microscopic blob that is made up of an outer rim of lipoproteins that surrounds a cholesterol centre. Its full name is low density lipoprotein. It appears that LDL delivers fats to cells. High, thought to increase the risk of heart disease, pregnancy, high altitudes. False high, certain drugs such as asthma medications like albuterol, prednisone, steroid inhalers, birth control pills, sedatives. Low, not usually a problem but severely low levels may be caused by HIV-Aids, malnutrition, chronic anaemia, and hyperthyroidism."
+      },
+      {
+        "test": "Triglycerides",
+        "result": "Result H 1.76",
+        "range": "Range mmol/l<1.70",
+        "explanation": "Triglycerides are the chemical form in which most fat exists in food and the body. These fats are composed of fatty acids and glycerol. Triglycerides combine with proteins (as a lipoprotein) that transports fats through the bloodstream. The two main sources of triglycerides are the diet and the liver. Dietary triglycerides are absorbed in the small intestines and secreted into the lymph. The liver also produces triglycerides from fat and carbohydrates. Liver triglycerides are packed with very low-density lipoproteins (VLDL) and secreted into the blood to produce receptor sites. High, linked to higher coronary artery disease or event, a disorder of fate metabolism from auto immune disease, alcoholism, diabetes, obesity, kidney-liver disease, pancreatitis, hypothyroidism. Low, diets not containing enough fats or inability to absorb fats (possible hyperthyroidism). Decreased food intake, increased inflammation, cachexia (body wasting), liver congestion, chronic heart failure."
+      },
+      {
+        "test": "Non-HDL Cholesterol",
+        "result": "Result H 4.02",
+        "range": "Range nmo/l < 4.0",
+        "explanation": "HDL and LDL are lipoproteins that carry cholesterol. The cholesterol Is the same it\u2122s the lipoprotein that changes as LDL only measures the cholesterol carried by low density lipoproteins the total of non-HDL measures all cholesterol not carried by HDL or high-density lipoproteins (good cholesterol) thus taking into account triglycerides and LDL (all types of negative cholesterol)."
+      },
+      {
+        "test": "HDL Cholesterol ratio",
+        "result": "Result H 5.37",
+        "range": "Range ratio < 4.0",
+        "explanation": "This is the amount of HDL as a percentage of the total cholesterol."
+      },
+      {
+        "test": "Vitamin D (25 OH)",
+        "result": "Result L 21.8",
+        "range": "Range nmol/l Optimal 75-200",
+        "explanation": "Adequate 50-<75 Insufficient 25 -<50 Deficient <25 The main role of vitamin D is to help regulate the absorption of calcium phosphate and (to a lesser extent) magnesium from the gut. Vitamin D is vital for the growth and health of bone; without it, bones will be soft, malformed, and unable to repair themselves normally, resulting in the disease called rickets in children and Osteomalacia in adults. Vitamin D also plays an important role in musculoskeletal health. The active form of vitamin D helps control calcium and phosphate levels in the body. Vitamin D3 is the potent form of vitamin D called cholecalciferol. Vitamin D, 25-OH, D3 indicates both endogenous production and supplementation. Vitamin D2 (ergocalciferol) is from foods. High, (hypervitaminosis D) may be due to excess vitamin D supplementation. Low, lack of exposure to sunlight, lack of enough vitamin D in the diet, liver and kidney diseases, poor food absorption, cancer, use of certain medicines including phenytoin, phenobarbital and rifampin (rifampicin, antibiotic)"
+      }
+    ],
+    "summary": "creatinine will elevate with exercise and dehydration if you are concerned id recommend retesting with your gp ensuring you are well rested and hydrated however i suspect it is these influences that have caused this elevation alt will elevate with exercise levels can get as high as 100 with hard training uric acid elevates with diets high in purines levels can be decreased by supplementing with sour cherry extract hdl is reduced and as a result hdl ratio has increased recommend increasing hdl via supplementation 500mg citrus bergamot and 1g krill oil daily ldl is slightly elevated this can be reduced by reducing saturated fat intake triglycerides are elevated due to not being fasted this is not concerning testosterone is towards the lower end of range you wouldn't qualify for support from the nhs but you would privately . you could also look at over the counter test boosters such as tribulus, daa, maca rooit and tongkat ali folate is low recommend supplementing with methyl folate vit d is low recommend 5000iu a day"
+  },
+  {
+    "filename": "240324111_basic_ExplanationReport(5079)YRV-240324111 - 3-Mar-2024-06_31_43",
+    "isExplanation": true,
+    "patient_data": {
+      "surname": "baig",
+      "forename": "ozayr",
+      "date_of_birth": "17/01/1993",
+      "sample_number": "YRV-240324111",
+      "sex": "Male",
+      "lab_no": "5079",
+      "sample_dated": "01/03/2024 11",
+      "sample_received": "02/03/2024 11",
+      "result_reported": "02/03/2024 15",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "explanations": [
+      {
+        "test": "Ferritin",
+        "result": "Result H 451.3",
+        "range": "Range ug/l 30 - 400",
+        "explanation": "Ferritin is a cellular and intracellular protein that binds, stores and releases iron in a safe form. Ferritin is the best indicator of the amount of uncommitted iron reserves and identifies the amount of iron in the blood. A knock-on effect occurs with lower ferritin levels. There is a hidden connection between ferritin levels and liver function that needs to be more investigated. High, possible infection, iron overload, leukaemia, liver disease, auto immunity, Lyme disease. Low, anaemia from iron deficiency, digestive tract bleeding, heavy menstrual cycles, unexplained rash on the body, intestinal and/or liver imbalance, overgrowth of candida albicans, overuse of antibiotics, synthetic chemical toxicity, hypothyroidism, excessive exercise (long distance runners)"
+      },
+      {
+        "test": "Urea",
+        "result": "Result H 8.9",
+        "range": "Range mmol/l2.50 - 7.8",
+        "explanation": "Urea/Uric acid is a waste product from protein digestion the ash of protein digestion it is stored in the kidneys, hence there is an increase along with BUN in kidney problems but also liver issues. High. Heavy metals, liver dysfunction, kidney dysfunction, cancer, pernicious anaemia, hyperthyroidism, diabetes, heart failure, hypertension and to some degree low testosterone. Also, dehydration. Low, levels are not common and are not usually a cause for concern. They can be seen in severe liver disease or malnutrition but are not used to diagnose or monitor these conditions."
+      },
+      {
+        "test": "Creatinine",
+        "result": "Result H 122",
+        "range": "Range umol/l 59.0 - 104.0",
+        "explanation": "Creatinine is a waste product by the body when creatine, a metabolism substance that helps convert food into energy, breaks down. Usually, your kidneys help filter creatinine out of the blood and the waste product is then passed out of the body via urine. High creatinine indicates a problem with your kidneys and is the most used indicator of kidney function. Creatinine is found in skeletal muscle and heart muscle. It is worth noting the weight training will also spike creatinine levels above normal and often above range limit. High, muscular dystrophy decrease in kidney function (nephritis), long term diabetes, extensive hypertension, shock, enlarged prostate, supplementation of creatine. False high, antibiotic overuse, sedatives, barbiturates, high dose vitamin C. Low, an extremely low protein diet, liver disease, decreased muscle mass (cachexia) False low, pregnancy, some BP drugs."
+      },
+      {
+        "test": "Cholesterol",
+        "result": "Result H 7.18",
+        "range": "Range mmol/l<5.0",
+        "explanation": "Cholesterol is a waxy fat like substance that is important for normal body functioning. Cholesterol is an important lipid that compromises part of the cell membrane and myelin sheath and plays a role in nerve function and the production of hormones. Your body will produce enough cholesterol to maintain normal body needs. The liver is the major production factory for cholesterol (70%) High, is a strong indicator of the potential of cardiovascular diseases, the formation of plaque in the arteries (atherosclerosis) Low, it must be recognised that extremely low cholesterol levels can be detrimental. Low levels may enhance unnecessary risks, (depression, low libido, muscle weakness, memory loss, dementia, prostate problems in men.)"
+      },
+      {
+        "test": "LDL cholesterol",
+        "result": "Result H 4.69",
+        "range": "Range mmol/l<3.0",
+        "explanation": "Some cholesterol comes from the food you eat, and some is made by your liver. It cannot dissolve in blood, so proteins carry it where it needs to go. These carriers are called lipoproteins. Lipoproteins are the compounds that allow non soluble fats to move through the blood stream. LDL is a microscopic blob that is made up of an outer rim of lipoproteins that surrounds a cholesterol centre. Its full name is low density lipoprotein. It appears that LDL delivers fats to cells. High, thought to increase the risk of heart disease, pregnancy, high altitudes. False high, certain drugs such as asthma medications like albuterol, prednisone, steroid inhalers, birth control pills, sedatives. Low, not usually a problem but severely low levels may be caused by HIV-Aids, malnutrition, chronic anaemia, and hyperthyroidism."
+      },
+      {
+        "test": "Non-HDL Cholesterol",
+        "result": "Result H 5.01",
+        "range": "Range nmo/l < 4.0",
+        "explanation": "HDL and LDL are lipoproteins that carry cholesterol. The cholesterol Is the same it\u2122s the lipoprotein that changes as LDL only measures the cholesterol carried by low density lipoproteins the total of non-HDL measures all cholesterol not carried by HDL or high-density lipoproteins (good cholesterol) thus taking into account triglycerides and LDL (all types of negative cholesterol)."
+      },
+      {
+        "test": "Testosterone",
+        "result": "Result H 33.15",
+        "range": "Range nmol/l 8.64 - 29",
+        "explanation": "Testosterone appears in the blood in 2 measurements. Total testosterone (which is what has been tested in this test) and free testosterone. Much of the testosterone in the blood is bound to a protein called sex hormone binding globulin (SHBG). Total testosterone is the total amount of testosterone in the body this includes testosterone that is free floating and testosterone that is bound by various receptors and proteins in the blood and tissue. Low levels in either can cause symptoms. High, resistance to the action on male hormones (androgen resistance), cancer of testes, congenital hyperplasia. AAS use. Low, infertility, erectile disfunction, low level of sexual interest, thinning of bone, male pattern baldness, insulin resistance, metabolic syndrome, diabetes, heart disease, osteoporosis, low muscle mass, poor concentration, fatigue, AAS use/PCT not done."
+      },
+      {
+        "test": "SHBG",
+        "result": "Result H 87.36",
+        "range": "Range nmol/l 20.60 - 76.70",
+        "explanation": "produced by the liver. SHBG binds tightly to the hormones testosterone, dihydrotestosterone (DHT), and oestradiol (an oestrogen) and transports them in the blood in an inactive form. The amount of SHBG in the circulation is affected by age and sex, by decreased or increased testosterone or oestrogen production. High, liver disease, hyperthyroidism, eating disorders (anorexia) Estrogen use (HRT) and oral contraceptives, hypogonadism. False high, statin drugs, beta blockers, antifungals, hair loss drugs, antidepressants Low, obesity, polycystic ovarian syndrome (PCOS) hypothyroidism, hirsutism, AAS use, acne, Cushing disease."
+      },
+      {
+        "test": "Anti-Thyroidperoxidase abs",
+        "result": "Result H 35.98",
+        "range": "Range IU/ml 0.10 - 34.00",
+        "explanation": null
+      }
+    ],
+    "summary": "ferritin is slightly elevated and iron is on the lower end. ferritin indicates some mild inflammation this is common post illness, iron would benefit you being higher recommend increasing leafy greens in your diet and supplementing with 1g liposomal vit c to increase iron absorbtion hba1c shows good bg control with your insulin urea elevates with high protein diets and creatinine can elevate with exercise, dehydration, high protein diet but also reduced kidney function . i suspect this is the result of training the evening prior to the test and recommend making sure you are fully rested in future. as creatinine is used to calculate egfr a high creatinine will result in a low egfr total cholesterol is very high as is ldl however hdl is good also and as a result hdl ratio is good. this is due to keto diet and not concerning testosterone is very high and as a result shbg is elevated supplementing with boron will lower shbg however id discuss with your dr your high testosterone level anti thyroid peroxidase is elevated these are very prone to false elevations and thyroid function is normal this is not concerning"
+  },
+  {
+    "filename": "240324341_basic_ExplanationReport(5235)YRV-240324341 - 11-Mar-2024-16_10_39",
+    "isExplanation": true,
+    "patient_data": {
+      "surname": "Williams",
+      "forename": "Lee",
+      "date_of_birth": "29/07/1977",
+      "sample_number": "YRV-240324341",
+      "sex": "Male",
+      "lab_no": "5235",
+      "sample_dated": "09/03/2024 10",
+      "sample_received": "11/03/2024 11",
+      "result_reported": "11/03/2024 14",
+      "sample_type": "V - EDTA / V - Yellow"
+    },
+    "explanations": [
+      {
+        "test": "Haemoglobin",
+        "result": "Result H 183",
+        "range": "Range g/L 130 - 170",
+        "explanation": "Haemoglobin is the oxygen carrying molecule in blood, an iron-containing protein that enables RBCs to carry oxygen from the lungs to the rest of the body and excretes carbon dioxide as a waste product. It is composed of Haem, which effects the colour of the RBCs. Higher the levels of haemoglobin the greater oxygen capability thus increased cardio endurance. This level will increase if a person is dehydrated but also drugs such as EPO, equipoise and Oxymetholone all increase levels. Low levels are referred to as anaemia. High levels can add to high blood pressure; low levels can result in increased fatigue. Restrictive oxygen training will also increase levels. The amount of Haemoglobin determines how much oxygen the RBCs can carry to other cells. High, the blood is too thick, over production of red blood cells, COPD, congestive heart failure, or AAS use. Low, anaemia (various types) bleeding, lead poisoning, malnutrition, over hydration."
+      },
+      {
+        "test": "Red Blood Cells",
+        "result": "Result H 5.83",
+        "range": "Range x10\u00b9\u00b2/L4.40 - 5.8",
+        "explanation": "RBCs are the most common type of blood cells. This is the red blood cell count, red blood cells transport oxygen from the lungs around the body and carbon dioxide back to the lungs for removal. Higher levels are caused by dehydration stress, low vit c and respiratory issues as well as steroid use, higher levels will result in blood thickening and higher blood pressure. Low levels are caused by anaemia resulting fatigue. High, (polycythaemia) renal disease, cardiovascular disease, pulmonary disease, high altitude, smoking, alcohol, anaemia, Vitamin deficiency, dehydration, lung disease, kidney tumour. Low, (anaemia), iron deficiency anaemia, systemic lupus, Addison\u2122s disease, acute or chronic bleeding, vitamin b12 and/or folic acid deficiency, bone marrow damage, chronic inflammation, Kidney failure, Hodgkin\u2122s lymphoma."
+      },
+      {
+        "test": "Haematocrit (PCV)",
+        "result": "Result H 0.549",
+        "range": "Range L/L 0.38 - 0.50",
+        "explanation": "This screening measures how much of your blood is made of red blood cells. A haematocrit measurement is useful in identifying anaemia, bleeding disorders, liver disease and red cell production within the circulatory system, Haematocrit also shows the oxygen carrying capacity of blood. Blood contains several different types of cells. Haematocrit describes the volume of red cells in the blood it is shown as a percentage of the total blood. High, bone marrow disorder, blood disease, dengue fever, dehydration, lung disease (COPD), AAS use, shock. Low, low blood oxygen, anaemia, haemorrhage, heavy bleeding with menstruation, Hodgkin\u2122s lymphoma, heart failure, chronic kidney disease, leukaemia, toxins."
+      },
+      {
+        "test": "C. K",
+        "result": "Result H 464",
+        "range": "Range U/l 39.0 - 380.0",
+        "explanation": "CK is elevated in cardiac conditions, muscular dystrophy, muscle damage/degeneration, brain damage/inflammation, and strenuous exercise, also other conditions include hypoparathyroidism, oedema, and influenza. CPK isoenzymes are broken down into three (3) categories: 1. CK:MM - derived from skeletal muscle. 2. CK: MB - derived from heart muscle. 3. CK:BB - derived from brain and nerve tissue and may also be a useful marker for prostate, breast, ovarian, colon, lung, and digestive tract cancers. High, when total CK level is remarkably high, it usually means there has been injury or stress to muscle tissue, heart, or brain. This can include heart attack, heart muscle inflammation, heart injury, muscular dystrophy, brain injury, convulsions, electric shock. False high, excessive alcohol intake, high protein diet, strenuous exercise. Low, of no importance."
+      },
+      {
+        "test": "eGFR",
+        "result": "Result L 57",
+        "range": "Range ml/min/>60 unless evidence of CKD",
+        "explanation": "1.73m^ 2 Estimated Glomerular filtration rate is a measure of the function of the kidneys. This test measures the level of creatinine in the blood and uses the result in a formula to calculate a number that reflects how well the kidneys are functioning, Glomeruli are tiny filters in the kidneys that allow waste products to be removed from the blood, while preventing the loss of important constituents, including proteins and blood cells. Every day. The eGFR refers to the amount of blood that is filtered by the glomeruli per minute. As a person's kidney function declines due to damage or disease, the filtration rate decreases, and waste products begin to accumulate in the blood. eGFR <60 indicates kidney disease. eGFR <15 indicates kidney failure. Low, factors likely to damage kidney function (heart disease, hypertension, diabetes, Hereditary, excessive bleeding, frequent urinary infections."
+      },
+      {
+        "test": "Creatinine",
+        "result": "Result H 119",
+        "range": "Range umol/l 59.0 - 104.0",
+        "explanation": "Creatinine is a waste product by the body when creatine, a metabolism substance that helps convert food into energy, breaks down. Usually, your kidneys help filter creatinine out of the blood and the waste product is then passed out of the body via urine. High creatinine indicates a problem with your kidneys and is the most used indicator of kidney function. Creatinine is found in skeletal muscle and heart muscle. It is worth noting the weight training will also spike creatinine levels above normal and often above range limit. High, muscular dystrophy decrease in kidney function (nephritis), long term diabetes, extensive hypertension, shock, enlarged prostate, supplementation of creatine. False high, antibiotic overuse, sedatives, barbiturates, high dose vitamin C. Low, an extremely low protein diet, liver disease, decreased muscle mass (cachexia) False low, pregnancy, some BP drugs."
+      },
+      {
+        "test": "Sodium",
+        "result": "Result L 130.1",
+        "range": "Range mmol/l133.0 - 146.0",
+        "explanation": "Sodium is one of the bodies primary minerals and opposes (effectively its opposite) potassium. It is essential to the acid/base (pH) balance and intra-cellular fluid exchange for the bodies water distribution it helps maintain blood pressure and blood volume and is essential in our nerves and muscles working correctly. Sodium pumps water and nutrients into the cell wall and is primarily under the control of the adrenal cortex. Chloride pumps water and nutrients through the cell wall and the potassium essentially moves them about inside of the cell. Sodium works in a very narrow range and is excreted by the kidneys. Damaged kidneys will let too much pass through or not enough. High, may increase blood pressure, chance of heart failure, kidney damage, diabetes, dehydration, coma, Cushing syndrome. False high, high salt diet, low fluid intake, steroids, diuretics, sweating, pain relieving medications. Low uncommon but can occur in alkalinity deficiency (acidosis)and adrenal over activity, oedema, burns. False low, too little salt intake, vomiting diarrhoea, diuretics."
+      },
+      {
+        "test": "ALT",
+        "result": "Result H 69.1",
+        "range": "Range U/l <50",
+        "explanation": "Alanine aminotransferase (ALT) is an enzyme found mostly in the cells of the liver, skeletal and heart muscle. Much smaller amounts of it are also found in the heart and muscles. This test measures the level of ALT in the blood. The function of ALT is to convert alanine, an amino acid found in proteins, into pyruvate, an important intermediate in cellular energy production. In healthy individuals, ALT levels in the blood are low. When the liver is damaged, ALT is released into the blood, usually before more obvious signs of liver damage occur, such as jaundice. This makes ALT a useful test for early detection of liver damage. High, liver cell damage, heart failure, infection, bile duct failure, cirrhosis, liver tumour, jaundice, burns, severe shock, muscle trauma, pancreatitis. False high, antibiotics, antidepressants, alcohol, NSAIDS, beta blockers, cortisone, narcotics, birth control pill. Low, desirable, however look for malnutrition."
+      },
+      {
+        "test": "HDL",
+        "result": "Result L 0.89",
+        "range": "Range mmol/l>1.0",
+        "explanation": "High Density Lipoprotein, HDL, or good cholesterol. It is believed that the higher number the lower the risk. This is because the HDL cholesterol protects against heart disease by taking the bad cholesterol (LDL) out of the blood and keeping it away from building up in the arteries. High, decrease the risk of heart disease. Low, lower levels the greater the risk of heart attack, diabetes, bile obstruction, kidney and pancreas disease, underactive thyroid."
+      },
+      {
+        "test": "Testosterone",
+        "result": "Result H > 83.6",
+        "range": "Range nmol/l 8.64 - 29",
+        "explanation": "Testosterone appears in the blood in 2 measurements. Total testosterone (which is what has been tested in this test) and free testosterone. Much of the testosterone in the blood is bound to a protein called sex hormone binding globulin (SHBG). Total testosterone is the total amount of testosterone in the body this includes testosterone that is free floating and testosterone that is bound by various receptors and proteins in the blood and tissue. Low levels in either can cause symptoms. High, resistance to the action on male hormones (androgen resistance), cancer of testes, congenital hyperplasia. AAS use. Low, infertility, erectile disfunction, low level of sexual interest, thinning of bone, male pattern baldness, insulin resistance, metabolic syndrome, diabetes, heart disease, osteoporosis, low muscle mass, poor concentration, fatigue, AAS use/PCT not done."
+      },
+      {
+        "test": "Free Testosterone Calculated",
+        "result": "Result H 3.13",
+        "range": "Range nmol/l 0.2 - 0.62",
+        "explanation": "This test measures the amount of unattached, or \"free,\" testosterone in your blood. Testosterone is a male sex hormone (androgen) that helps male features develop. Testosterone is made in the testes and the adrenal glands. It causes the changes that occur in boys during puberty. Testosterone helps hair and muscles grow. It also helps the penis and testes grow. Testosterone also causes a boy's voice to deepen. Men continue to make testosterone. It boosts sex drive and helps make sperm. Women's ovaries also make small amounts of testosterone. It helps many organs and body processes in women. The pituitary gland in your brain controls the amount of testosterone your body makes. Most of the testosterone in your blood attaches to 2 proteins: albumin and sex hormone binding globulin (SHBG). Some testosterone is not attached to proteins, or free. Free testosterone and albumin-bound testosterone are also referred to as bioavailable testosterone. This is the testosterone that is easily used by your body."
+      },
+      {
+        "test": "Prolactin",
+        "result": "Result H 410.7",
+        "range": "Range mU/L 86 - 324",
+        "explanation": "Prolactin is produced by the pituitary gland in the brain. It is also known as PRL or lactogenic hormone. Prolactin is mainly used to help women produce milk after childbirth. It also plays a role in fertility and sexual satisfaction. High levels can be caused by a condition known as prolactinoma other symptoms include. Hypothalamic disease, dehydration, hypothyroidism, kidney disease, pituitary tumour, high protein meals, emotional stress. Headaches Visual impairment Lactation out of nursing Pain or discomfort during sex Hair growth Acne If your prolactin levels are below the normal range, this could mean your pituitary gland is not working at full steam. That is known as hypopituitarism. Lower levels of prolactin usually do not need medical treatment. Certain drugs can cause low levels of prolactin. They include: \u0141(cid:9)Dopamine (Intropine), which is given to people in shock \u0141(cid:9)Levodopa (for Parkinson\u2122s disease)"
+      },
+      {
+        "test": "LH",
+        "result": "Result L < 0.1",
+        "range": "Range IU/l 1.70 - 8.60",
+        "explanation": "Luteinizing hormone is released by the pituitary and stimulates hormone production via the Leydig cells in the testes."
+      },
+      {
+        "test": "FSH",
+        "result": "Result L < 0.3",
+        "range": "Range IU/l 1.50 - 12.40",
+        "explanation": "The FSH blood test measures the level of FSH in blood. FSH is a hormone released by the pituitary gland, located on the underside of the brain. In women FSH helps control the menstrual cycle and the production of eggs by the ovaries. The amount of FSH varies throughout the woman\u2122s menstrual cycle and is highest just before she releases an egg (ovulates) In men, FSH helps control the production of sperm. The amount in men normally remains constant. Follicle stimulating hormone is released by the pituitary and stimulates sperm production via the Sertoli cells in the testes. High, (women)during or after menopause, including premature menopause, when receiving hormone therapy, tumour in the pituitary gland, turner\u2122s syndrome. High (men), advancing age, (male menopause), damage to testicles (chemotherapy or radiation) treatment with hormones, tumours in pituitary gland. Low (women) pregnancy, being very underweight, not ovulating, the pituitary gland or hypothalamus not producing normal amounts of some or all its hormones. Low (men) low sperm count AAS usage."
+      },
+      {
+        "test": "DHEA-Sulphate",
+        "result": "Result H 9.86",
+        "range": "Range umol/l 1.20 - 8.98",
+        "explanation": "DHEA stands for dehydroepiandrosterone. It is a weak but most abundant hormone (androgen) produced by the adrenal glands in both men and women. The DHEA-sulphate test measures the amount of DHEA-sulphate in the blood. It is done as a check of adrenal gland function. Low levels can cause depression and anxiety. Levels can be brought up by supplementing DHEA. If your level of DHEA-S is high, it means that your body is making too much of the hormones. This excess may be related to adrenal cancer, tumours, or excess growth of adrenal hormone-producing tissue (hyperplasia). If your DHEA level is low, it may mean that your adrenal glands are not making enough hormones. High Is associated with Cushing disease, adrenal cancer, adrenocortical tumour, adrenal hyperplasia. Low, adrenal insufficiency, adrenal dysfunction, atherosclerotic plaque, nerve degeneration, Addison\u2122s disease, hypopituitarism, vulnerability to breast, prostate, and bladder cancer."
+      },
+      {
+        "test": "SHBG",
+        "result": "Result L 11.05",
+        "range": "Range nmol/l 20.60 - 76.70",
+        "explanation": "produced by the liver. SHBG binds tightly to the hormones testosterone, dihydrotestosterone (DHT), and oestradiol (an oestrogen) and transports them in the blood in an inactive form. The amount of SHBG in the circulation is affected by age and sex, by decreased or increased testosterone or oestrogen production. High, liver disease, hyperthyroidism, eating disorders (anorexia) Estrogen use (HRT) and oral contraceptives, hypogonadism. False high, statin drugs, beta blockers, antifungals, hair loss drugs, antidepressants Low, obesity, polycystic ovarian syndrome (PCOS) hypothyroidism, hirsutism, AAS use, acne, Cushing disease."
+      }
+    ],
+    "summary": "haemoglobin, red cells and haematocrit are elevated indicating that your blood is thick however a syou have had one blood let id recommend 1 more in 2-3 weeks ck is elevated this is common with regular exercise and not concerning creatinine is elevated and as a result egfr has reduced . creatinine will elevate with dehydration, exercise, increased muscle mass and reduced kidney function id recommend keeping an eye on this you could also look at a cystatin c test which isnt affected by these markers alt elevates with ck and is not concerning hdl is slightly reduced recommend increasing hdl support however hdl ratio is good so no current impact test is elevated due to usage, prolactin is slightly elevated, this will elevate with stress and is not concerning fsh and lh are suppressed , dhea is elevated and shbg is reduced this is expected when using aas and not concerning youd benefit from increasing vit d levels"
+  },
+  {
+    "filename": "240334557_basic_ExplanationReport(5158)YRV-240334557 - 7-Mar-2024-10_02_42",
+    "isExplanation": true,
+    "patient_data": {
+      "surname": "Cook",
+      "forename": "Jamie",
+      "date_of_birth": "04/02/1995",
+      "sample_number": "YRV-240334557",
+      "sex": "Male",
+      "lab_no": "5158",
+      "sample_dated": "02/03/2024 18",
+      "sample_received": "05/03/2024 12",
+      "result_reported": "05/03/2024 20",
+      "sample_type": "V - EDTA / V - Na2 EDTA / V - Yellow"
+    },
+    "explanations": [
+      {
+        "test": "Red Blood Cells",
+        "result": "Result H 5.88",
+        "range": "Range x10\u00b9\u00b2/L4.40 - 5.8",
+        "explanation": "RBCs are the most common type of blood cells. This is the red blood cell count, red blood cells transport oxygen from the lungs around the body and carbon dioxide back to the lungs for removal. Higher levels are caused by dehydration stress, low vit c and respiratory issues as well as steroid use, higher levels will result in blood thickening and higher blood pressure. Low levels are caused by anaemia resulting fatigue. High, (polycythaemia) renal disease, cardiovascular disease, pulmonary disease, high altitude, smoking, alcohol, anaemia, Vitamin deficiency, dehydration, lung disease, kidney tumour. Low, (anaemia), iron deficiency anaemia, systemic lupus, Addison\u2122s disease, acute or chronic bleeding, vitamin b12 and/or folic acid deficiency, bone marrow damage, chronic inflammation, Kidney failure, Hodgkin\u2122s lymphoma."
+      },
+      {
+        "test": "Mean Cell Volume",
+        "result": "Result LL 73",
+        "range": "Range fL 80 - 96",
+        "explanation": "MCV is a measurement of the average volume of red blood cells. It may appear normal or small/larger than normal. High, indicates large or macrocytic RBC (anaemia), associated with specific hereditary anaemia, increased serum homocysteine, excess alcohol consumption, high altitude. Low, internal bleeding, iron anaemia, free radicals, intestinal parasites, heavy metal excess, gluten intolerance in gastrointestinal tract, vitamin b6 depletion."
+      },
+      {
+        "test": "Red Cell Distribution",
+        "result": "Result H 16.6",
+        "range": "Range % 11.5 - 14.4",
+        "explanation": "The red cell distribution width (RDW) blood test is a calculation of the variation in the size and shape of red blood cells. In this case, fiwidthfl refers to the measurement of distribution, not the size of the cells. You need red blood cells to carry oxygen from your lungs to every part of your body. Anything outside of the normal range in red blood cell width or volume indicates a possible problem with bodily function that in turn may affect oxygen getting to various parts of your body. However, with certain diseases, you may still have a normal RDW. Normal red blood cells maintain a standard size of 6 to 8 micrometres in diameter. If cells are larger, your RDW blood test values will have higher numbers. High, iron deficiency anaemia, bone marrow disorder, reticulocytosis, liver disease, AAS use. Low, Normal not important."
+      },
+      {
+        "test": "Mean Cell Haemoglobin",
+        "result": "Result L 23.8",
+        "range": "Range pg 27.0 - 33.0",
+        "explanation": "MCH is a calculation of the amount of oxygen-carrying haemoglobin (RBC) It is calculated by dividing the mass of HgB by volume of red blood cells. Haemoglobin is the oxygen carrying molecule in blood. Higher levels of haemoglobin the greater oxygen capability thus increased cardio endurance. Mean cell haemoglobin is the average mass of haemoglobin per each red blood cell. This means the concentration of haemoglobin the red blood cell is too high and is normally accompanied by an increase in mean cell volume (which in this case is just below the upper limit) this is usually caused by a low number of red blood cells which is compensated for by making the cells larger. if you look at the RBC count you will see that it is low. High, associated with an increased level of haemoglobin leading to anaemia (macrocytic), caused by insufficient levels of folic acid and vitamin B12. Low, caused by iron-deficiency anaemia or hyperchromic anaemia, vitamin deficiency in conjunction with low mean corpuscular volume (small RBCs)."
+      },
+      {
+        "test": "Platelets",
+        "result": "Result H 404",
+        "range": "Range x10\u2079/L 150 - 400",
+        "explanation": "Platelets are little pieces of blood cells. Platelets help wounds heal and prevent bleeding by forming clots. Your bone marrow makes platelets. Problems can result from having too few or too many platelets, or from platelets that do not work properly. The average lifespan of a platelet is 7.5 days. High, (thrombocytosis) too many platelets, you have a higher risk of blood clots, leukaemia, renal failure, cancer, iron deficiency and haemolytic anaemia, stroke, heart attack, arthritis, inflammatory conditions, rheumatoid arthritis. Low, (thrombocytopenia) increased risk for mild to serious bleeding, bruising, trauma, nosebleeds, anaemia, bone marrow suppression, HIV, cirrhosis, gastrointestinal bleeding, heavy menstruation, viral infections, sepsis, Lyme disease, autoimmune disease (for example, systemic lupus, rheumatoid arthritis) chemotherapy and excess radiation."
+      },
+      {
+        "test": "White blood cells",
+        "result": "Result H 12.45",
+        "range": "Range x10\u2079/L 3 - 10",
+        "explanation": "WBCs (or leukocytes) play an important role in the health of the immune system. They are produced in the bone marrow and act as the body\u2122s protectors against infectious disease and foreign invaders that lead to illness and/or injury. Slightly low WBCs may be a natural level for some people. When a person gets an infection, WBCs will increase in numbers in order to attack the invaders. To bring WBCs levels back to normal, the spleen and the rest of the lymphatic system (which produces white blood cells, or corpuscles) needs to be brought back to balance. High, (leucocytosis) bacterial infections, blood disorders, leukaemia, allergies, asthma, tissue damage, anxiety, strenuous exercise, severe stress, inflammation. Low, (leukopenia) may be caused by bone marrow disease, most autoimmune diseases, fungal infections, sepsis, lymphoma, anaemia, diabetes, viral infections, toxic blood. A false low can be created by marijuana use."
+      },
+      {
+        "test": "Monocytes",
+        "result": "Result H 1.11",
+        "range": "Range x10\u2079/L 0.2 - 1",
+        "explanation": "Are a type of white blood cell that fights off bacteria, viruses, and fungi. Monocytes are the biggest type of white blood cell in the immune system. Originally formed in the bone marrow, they are released into our blood and tissues for 1 to 3 days. Monocytes are responsible for eating foreign intruders, called fiphagocytosisfl. Monocytes make up only 1-3% of total WBC. They can develop into macrophages that attack both viruses and bacteria. When certain germs enter the body, they quickly rush to the site for attack. High, (Monocytosis), chronic infection (viral and fungal infections), tuberculosis, infection within the heart (bacterial endocarditis, stress, collagen vascular diseases (lupus, scleroderma, rheumatoid arthritis, TB, vasculitis), monocytic or myelomonocytic leukaemia (acute or chronic), other cancers. Low, bone marrow damage or failure, hairy cell leukaemia, severe infection HIV-AIDS. AAS use can cause a false low, as can chemotherapy."
+      },
+      {
+        "test": "Basophils",
+        "result": "Result H 0.13",
+        "range": "Range x10\u2079/L 0.00 - 0.10",
+        "explanation": "Basophilic granulocytes (basophils) are the least common of the 5 white blood cells. When activated, basophils release many components (including histamine and interlukin-4) in response to an allergic reaction (inflammatory). They are considered phagocytic. Basophils comprise of only 0.01-0.03% of circulating white blood cells. High, some leukaemia\u2122s, rare allergic reactions (hives, food allergies) inflammation (ulcerative colitis, rheumatoid arthritis), myeloma, hypothyroidism, enlarged spleen, radiation, sinusitis, Crohns disease, Hodgkin\u2122s lymphoma, parasites, viral infections, haemolytic anaemia. Low, not medically significant, extreme stress."
+      },
+      {
+        "test": "Lymphocytes",
+        "result": "Result HH 5.45",
+        "range": "Range x10\u2079/L 1.20 - 3.65",
+        "explanation": "Lymphocytes are a type of white blood cell (leukocyte) that is of fundamental importance in the immune system. Lymphocytes are the cells that determine the specificity of the immune response to infectious microorganisms (viruses, bacteria, fungal, parasitic), tumours and other foreign substances). In adults, lymphocytes make up roughly 20-40 percent of the total number of white blood cells. They are found in the circulation and also are concentrated in central lymphoid organs and tissues (spleen, thymus, tonsils and lymph nodes) where the initial immune response is likely to occur. Are three types, B-lymphocytes, T-lymphocytes, and Natural killer cells. High, (lymphocytosis) acute viral infections (chicken pox, rubella, cytomegalovirus, Epstein-Barr virus (glandular fever), measles, herpes, certain bacterial infections (whooping cough), tuberculosis, toxoplasmosis (parasite), colitis, lymphocytic leukaemia, lymphoma, stress, chicken pox, neutropenia, Crohns disease, Addison\u2122s disease, hepatitis. Low (lymphocytopenia) Autoimmune disorders (lupus, rheumatoid arthritis), infections (HIV, viral hepatitis, typhoid fever, influenza), bone marrow damage (chemotherapy, radiation therapy), malnutrition, Hodgkin\u2122s lymphoma disease. A false low can be because of marijuana use, mercury poisoning, food allergies, severe hypothyroidism, corticosteroids use"
+      },
+      {
+        "test": "CRP",
+        "result": "Result H 66.16",
+        "range": "Range mg/l <5.0",
+        "explanation": "C-reactive protein (CRP) is a protein that increases in the blood, which is made by the liver in response to inflammation and infection as well as following a heart attack, surgery, or trauma. Studies have suggested that a persistent low level of inflammation plays a major role in atherosclerosis, the narrowing of blood vessels due to build-up of cholesterol and other lipids, which is often associated with cardiovascular disease (CVD). The HS-CRP test accurately measures low levels of CRP to identify low but persistent levels of inflammation and thus helps predict a person's risk of developing CVD. Any levels above 3 are regarded as high risk however training within 24 hrs of bloods being drawn will elevate readings. So, to get a more accurate reading abstain from training for 48 hours and retest. High, Infection (viral or bacterial), auto-immune disease (practically all of them), cancer, long term illness, heart disease, Lyme disease. Low, Favourable of little concern."
+      },
+      {
+        "test": "C. K",
+        "result": "Result H 1821",
+        "range": "Range U/l 39.0 - 380.0",
+        "explanation": "CK is elevated in cardiac conditions, muscular dystrophy, muscle damage/degeneration, brain damage/inflammation, and strenuous exercise, also other conditions include hypoparathyroidism, oedema, and influenza. CPK isoenzymes are broken down into three (3) categories: 1. CK:MM - derived from skeletal muscle. 2. CK: MB - derived from heart muscle. 3. CK:BB - derived from brain and nerve tissue and may also be a useful marker for prostate, breast, ovarian, colon, lung, and digestive tract cancers. High, when total CK level is remarkably high, it usually means there has been injury or stress to muscle tissue, heart, or brain. This can include heart attack, heart muscle inflammation, heart injury, muscular dystrophy, brain injury, convulsions, electric shock. False high, excessive alcohol intake, high protein diet, strenuous exercise. Low, of no importance."
+      },
+      {
+        "test": "Iron",
+        "result": "Result L 5.37",
+        "range": "Range umol/l 5.80 - 34.50",
+        "explanation": "Iron (Fe+) is the active component of haemoglobin (which carries oxygen in the blood). Iron is critical for red blood cells and is also needed for cellular energy and healthy muscle and organ function. Iron is a mineral in your body that comes from foods like red meat and fortified cereals or from supplements you take. High iron can cause joint pain, fatigue, heart problems and weakness. False high, birth control pills, excessive vitamin c intake. Low, anaemia, reduced ferritin levels, slow development in children, fatigue and poor cognition."
+      },
+      {
+        "test": "Transferrin Saturation",
+        "result": "Result L 10",
+        "range": "Range % 20 - 50",
+        "explanation": "Transferrin saturation, measured as a percentage, is a medical laboratory value. It is the value of serum iron divided by the total iron-binding capacity. Of the transferrin that is available to bind iron, this value tells a clinician how much serum iron is bound. For instance, a value of 15% means that 15% of iron-binding sites of transferrin are being occupied by iron. High, Chronic infections, renal disease, protein deficiency, acquired liver disease, malnutrition, genetic deficiency, hereditary, iron-overload. Low, Iron-deficiency anaemia, Estrogen therapy, pregnancy"
+      },
+      {
+        "test": "Urea",
+        "result": "Result H 11.4",
+        "range": "Range mmol/l2.50 - 7.8",
+        "explanation": "Urea/Uric acid is a waste product from protein digestion the ash of protein digestion it is stored in the kidneys, hence there is an increase along with BUN in kidney problems but also liver issues. High. Heavy metals, liver dysfunction, kidney dysfunction, cancer, pernicious anaemia, hyperthyroidism, diabetes, heart failure, hypertension and to some degree low testosterone. Also, dehydration. Low, levels are not common and are not usually a cause for concern. They can be seen in severe liver disease or malnutrition but are not used to diagnose or monitor these conditions."
+      },
+      {
+        "test": "Creatinine",
+        "result": "Result H 115",
+        "range": "Range umol/l 59.0 - 104.0",
+        "explanation": "Creatinine is a waste product by the body when creatine, a metabolism substance that helps convert food into energy, breaks down. Usually, your kidneys help filter creatinine out of the blood and the waste product is then passed out of the body via urine. High creatinine indicates a problem with your kidneys and is the most used indicator of kidney function. Creatinine is found in skeletal muscle and heart muscle. It is worth noting the weight training will also spike creatinine levels above normal and often above range limit. High, muscular dystrophy decrease in kidney function (nephritis), long term diabetes, extensive hypertension, shock, enlarged prostate, supplementation of creatine. False high, antibiotic overuse, sedatives, barbiturates, high dose vitamin C. Low, an extremely low protein diet, liver disease, decreased muscle mass (cachexia) False low, pregnancy, some BP drugs."
+      },
+      {
+        "test": "Sodium",
+        "result": "Result L 127.2",
+        "range": "Range mmol/l133.0 - 146.0",
+        "explanation": "Sodium is one of the bodies primary minerals and opposes (effectively its opposite) potassium. It is essential to the acid/base (pH) balance and intra-cellular fluid exchange for the bodies water distribution it helps maintain blood pressure and blood volume and is essential in our nerves and muscles working correctly. Sodium pumps water and nutrients into the cell wall and is primarily under the control of the adrenal cortex. Chloride pumps water and nutrients through the cell wall and the potassium essentially moves them about inside of the cell. Sodium works in a very narrow range and is excreted by the kidneys. Damaged kidneys will let too much pass through or not enough. High, may increase blood pressure, chance of heart failure, kidney damage, diabetes, dehydration, coma, Cushing syndrome. False high, high salt diet, low fluid intake, steroids, diuretics, sweating, pain relieving medications. Low uncommon but can occur in alkalinity deficiency (acidosis)and adrenal over activity, oedema, burns. False low, too little salt intake, vomiting diarrhoea, diuretics."
+      },
+      {
+        "test": "Testosterone",
+        "result": "Result H > 60.9",
+        "range": "Range nmol/l 8.64 - 29",
+        "explanation": "Testosterone appears in the blood in 2 measurements. Total testosterone (which is what has been tested in this test) and free testosterone. Much of the testosterone in the blood is bound to a protein called sex hormone binding globulin (SHBG). Total testosterone is the total amount of testosterone in the body this includes testosterone that is free floating and testosterone that is bound by various receptors and proteins in the blood and tissue. Low levels in either can cause symptoms. High, resistance to the action on male hormones (androgen resistance), cancer of testes, congenital hyperplasia. AAS use. Low, infertility, erectile disfunction, low level of sexual interest, thinning of bone, male pattern baldness, insulin resistance, metabolic syndrome, diabetes, heart disease, osteoporosis, low muscle mass, poor concentration, fatigue, AAS use/PCT not done."
+      },
+      {
+        "test": "Free Testosterone Calculated",
+        "result": "Result H 2.06",
+        "range": "Range nmol/l 0.2 - 0.62",
+        "explanation": "This test measures the amount of unattached, or \"free,\" testosterone in your blood. Testosterone is a male sex hormone (androgen) that helps male features develop. Testosterone is made in the testes and the adrenal glands. It causes the changes that occur in boys during puberty. Testosterone helps hair and muscles grow. It also helps the penis and testes grow. Testosterone also causes a boy's voice to deepen. Men continue to make testosterone. It boosts sex drive and helps make sperm. Women's ovaries also make small amounts of testosterone. It helps many organs and body processes in women. The pituitary gland in your brain controls the amount of testosterone your body makes. Most of the testosterone in your blood attaches to 2 proteins: albumin and sex hormone binding globulin (SHBG). Some testosterone is not attached to proteins, or free. Free testosterone and albumin-bound testosterone are also referred to as bioavailable testosterone. This is the testosterone that is easily used by your body."
+      },
+      {
+        "test": "Oestradiol",
+        "result": "Result H 172.6",
+        "range": "Range pmol/l 41 - 159",
+        "explanation": "Oestradiol is produced primarily in the ovaries and testes by the aromatisation of testosterone. Small amounts are produced in the adrenal glands and some peripheral tissue, mostly fat. Estrogen is the primary female hormone thought it plays many important roles in males too. From libido to cholesterol management and even has an influence on eyesight. High, hypogonadism (check LH and FSH levels) polycystic ovarian syndrome (PCOS), androgen producing tumours, cancer, early puberty, cirrhosis, hyperthyroidism, oestrogen dominance, disease of hypothalamus, AAS use. False high, could be functional causes such as starvation, over exercise, severe emotional/physical stress, excess drug use alcohol abuse. AAS use. high levels can cause low libido, fat gain, water retention increased emotional sensitivity, gynecomastia. Low, anti-oestrogen therapy, low bone density, delayed puberty, low pituitary function, anti-androgen therapy in men. levels can cause fatigue low mood low libido poor eyesight."
+      },
+      {
+        "test": "LH",
+        "result": "Result L < 0.1",
+        "range": "Range IU/l 1.70 - 8.60",
+        "explanation": "Luteinizing hormone is released by the pituitary and stimulates hormone production via the Leydig cells in the testes."
+      },
+      {
+        "test": "FSH",
+        "result": "Result L < 0.3",
+        "range": "Range IU/l 1.50 - 12.40",
+        "explanation": "The FSH blood test measures the level of FSH in blood. FSH is a hormone released by the pituitary gland, located on the underside of the brain. In women FSH helps control the menstrual cycle and the production of eggs by the ovaries. The amount of FSH varies throughout the woman\u2122s menstrual cycle and is highest just before she releases an egg (ovulates) In men, FSH helps control the production of sperm. The amount in men normally remains constant. Follicle stimulating hormone is released by the pituitary and stimulates sperm production via the Sertoli cells in the testes. High, (women)during or after menopause, including premature menopause, when receiving hormone therapy, tumour in the pituitary gland, turner\u2122s syndrome. High (men), advancing age, (male menopause), damage to testicles (chemotherapy or radiation) treatment with hormones, tumours in pituitary gland. Low (women) pregnancy, being very underweight, not ovulating, the pituitary gland or hypothalamus not producing normal amounts of some or all its hormones. Low (men) low sperm count AAS usage."
+      },
+      {
+        "test": "DHEA-Sulphate",
+        "result": "Result H 17.45",
+        "range": "Range umol/l 4.34 - 12.20",
+        "explanation": "DHEA stands for dehydroepiandrosterone. It is a weak but most abundant hormone (androgen) produced by the adrenal glands in both men and women. The DHEA-sulphate test measures the amount of DHEA-sulphate in the blood. It is done as a check of adrenal gland function. Low levels can cause depression and anxiety. Levels can be brought up by supplementing DHEA. If your level of DHEA-S is high, it means that your body is making too much of the hormones. This excess may be related to adrenal cancer, tumours, or excess growth of adrenal hormone-producing tissue (hyperplasia). If your DHEA level is low, it may mean that your adrenal glands are not making enough hormones. High Is associated with Cushing disease, adrenal cancer, adrenocortical tumour, adrenal hyperplasia. Low, adrenal insufficiency, adrenal dysfunction, atherosclerotic plaque, nerve degeneration, Addison\u2122s disease, hypopituitarism, vulnerability to breast, prostate, and bladder cancer."
+      },
+      {
+        "test": "SHBG",
+        "result": "Result L 14.97",
+        "range": "Range nmol/l 20.60 - 76.70",
+        "explanation": "produced by the liver. SHBG binds tightly to the hormones testosterone, dihydrotestosterone (DHT), and oestradiol (an oestrogen) and transports them in the blood in an inactive form. The amount of SHBG in the circulation is affected by age and sex, by decreased or increased testosterone or oestrogen production. High, liver disease, hyperthyroidism, eating disorders (anorexia) Estrogen use (HRT) and oral contraceptives, hypogonadism. False high, statin drugs, beta blockers, antifungals, hair loss drugs, antidepressants Low, obesity, polycystic ovarian syndrome (PCOS) hypothyroidism, hirsutism, AAS use, acne, Cushing disease."
+      }
+    ],
+    "summary": "haemoglobin is low end this is due to low iron recommend supplementing with iron this will increase iron, transferrin saturation and as a result haemoglobin. red cells are high due to long term chest infection as a result of low end haemo and high red cells mean cell vol mean cell hb are low and red cell distribution has increased platelets are slightly elevated this is most likely due to prolonged immune response white cells, monocytes, basophils and lymphocytes are all elevated indicating an immune response high lymphocytes would support some form of chest infection crp is elevated indicating inflammation/infection ck is elevated due to exercise and not concerning urea is elevated indicating a high protein intake and most likely protein being used for energy creatinine will elevate with exercise and high protein intake , however cystatin c is not effected by exercise and protein levels and it is on the higher end of range though there are no immediate concerns around kidneys id recommend retesting every 2-3 months and monitoring testosterone is elevated due to usage and as a result estrogen has increased if you are experiencing no issues with elevated e2 id leave as is fsh and lh are suppressed dhea is elevated and shbg is reduced these are expected when using aas and not concerning"
+  }
+]
