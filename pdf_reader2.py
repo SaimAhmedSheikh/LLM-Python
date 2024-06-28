@@ -207,7 +207,7 @@ def write_data_to_csv(data, output_file):
  
 
 # Path to the directory
-directory_path = 'results n explanation'
+directory_path = 'reports'
 # List all files matching the pattern
 files = os.listdir(directory_path)
 test_results = []
