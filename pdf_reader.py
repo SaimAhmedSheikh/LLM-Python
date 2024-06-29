@@ -122,7 +122,8 @@ def extract_and_parse_pdf(file_path, filename=""):
     isExplanation = False
 
     for line in textLines:
-        if "Report Explanation" in line:
+        words = line.split(" ")
+        if "Report" in words and "Explanation" in words:
             isExplanation = True
             break
 

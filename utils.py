@@ -1,4 +1,5 @@
-import re, json
+import re, json, csv
+import pandas as pd
 
 def get_numerical_values(s):
     # Regular expression to match numerical values
@@ -23,6 +24,24 @@ def write_data_to_file(data, output_file):
     with open(output_file, 'w') as file:
         file.write(json.dumps(data, indent=2))
 
-def write_data_to_csv(data, output_file):
-    df = pd.DataFrame(data)
-    df.to_csv(output_file, index=False)
+def write_data_to_csv(json_data, csv_file_path):
+    # Ensure json_data is a list of dictionaries
+    if isinstance(json_data, str):
+        json_data = json.loads(json_data)
+
+    # Check if the json_data is a list of dictionaries
+    if not isinstance(json_data, list):
+        raise ValueError("JSON data should be a list of dictionaries")
+
+    # Open the CSV file for writing
+    with open(csv_file_path, mode='w', newline='', encoding='utf-8') as csv_file:
+        # Create a CSV DictWriter object
+        writer = csv.DictWriter(csv_file, fieldnames=json_data[0].keys())
+        
+        # Write the header
+        writer.writeheader()
+        
+        # Write the data rows
+        for row in json_data:
+            writer.writerow(row)
+
