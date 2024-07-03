@@ -13,19 +13,21 @@ def find_summary(patient_data):
     return None
 
 
-data = []
+combined_data = []
 combined = {}
 for i in range(0, len(test_results)):
-    test = test_results[i]
-    patient_data = test['patient_data']
+    test_result = test_results[i]
+    patient_data = test_result['patient_data']
     summary = find_summary(patient_data)
-    if summary:
+    if summary is not None and summary != "":
+        combined = {}
+        combined['filename'] = test_result['filename']
         combined['patient_data'] = patient_data
-        combined['test_results'] = test['results']
+        combined['test_results'] = test_result['results']
         combined['summary'] = summary
-        data.append(combined)
+        combined_data.append(combined)
 
 output_file_path = "combined.json"
-write_data_to_file(data, output_file_path)
+write_data_to_file(combined_data, output_file_path)
 print(f"Data has been written to {output_file_path}")
-print(f"Number of files: {len(data)}")
+print(f"Number of files: {len(combined_data)}")

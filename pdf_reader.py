@@ -1,6 +1,6 @@
 import pdfplumber, json, glob, os
 import pandas as pd
-from utils import get_numerical_values, write_data_to_csv, write_data_to_file
+from utils import get_numerical_values, write_data_to_csv, write_data_to_file, extract_substring, find_first_number
 
 PATIENT_DATA_KEYS = [
     "Surname",
@@ -15,50 +15,146 @@ PATIENT_DATA_KEYS = [
     "Sample Type",
     ]
 
-def extract_results(entry=[], test_name=""):
-    test_name_parts = []
-    value = None
+RESULTS_DATA_KEYS = [
+    'CRP',
+    'Albumin',
+    'CK',
+    'Iron',
+    'Total Protein',
+    'Globulin',
+    'Ferritin',
+    'HbA1c-(IFCC)',
+    'T.I.B.C',
+    'Transferrin Saturation',
+    'Chloride',
+    'Calcium',
+    'Glucose',
+    'Potassium',
+    'Magnesium',
+    'Uric Acid',
+    'Haemoglobin',
+    'Red Blood Cell',
+    'Haematocrit',
+    'Mean Cell Volume',
+    'Red Cell Distribution',
+    'Mean Cell Hb',
+    'MCHC',
+    'Platelets',
+    'MPV',
+    'White Blood Cells',
+    'Neutrophils',
+    'Monocytes',
+    'Basophils',
+    'Eosinophils',
+    'Lymphocytes',
+    'Cortisol',
+    'Prolactin',
+    'Oestradiol',
+    'Progesterone',
+    'LH',
+    'FSH',
+    'DHEA-S',
+    'SHBG',
+    'LH',
+    'FSH',
+    'Oestradiol',
+    'Ovulation',
+    'Luteal',
+    'Progesterone',
+    'Periovulatory',
+    'Postmenopause',
+    'Testosterone',
+    'SHBG',
+    'Anti-Thyroglobulin Abs',
+    'Anti-Thyroidperoxidase abs',
+    'Urea',
+    'Creatinine',
+    'Sodium',
+    'eGFR (Caucasian Only)',
+    'Cystatin C',
+    'Cholesterol',
+    'HDL',
+    'LDL',
+    'Triglycerides',
+    'Non HDL Cholesterol',
+    'Chol: HDL ratio',
+    'GGT',
+    'ALP',
+    'ALT',
+    'Total Bilirubin',
+    'AST',
+    'Total PSA',
+    'Free T4',
+    'TSH',
+    'Free T3',
+    'Vitamin B12',
+    'Vitamin D 3',
+    'Folate',
+    'Vitamin B12',
+]
+TEST_NAMES = [
+    'Biochemistry',
+    'Bone Screen',
+    'Full Blood Count',
+    'Hormones',
+    'Immunology',
+    'Kidney Function',
+    'Lipids',
+    'Liver Function',
+    'Markers',
+    'Thyroid Function',
+    'Vitamins',
+]
+def extract_results(line, test_name="", parameter_name=""):
+    value = ""
     hi_low = None
     range_parts = []
     comment_parts = []
 
+    values = line.split(" ")
+    values = [value.strip() for value in values]
+    values = [value for value in values if value != ""]
+
+    if "H" in values:
+        hi_low = values.pop(values.index("H"))
+    if "L" in values:
+        hi_low = values.pop(values.index("L"))
+    if "LL" in values:
+        hi_low = values.pop(values.index("LL"))
+    if "HH" in values:
+        hi_low = values.pop(values.index("HH"))
+
     # Traverse the entry until the first numerical value
-    if len(entry) > 0:
-        for item in entry:
-            if value is None and item.replace('.', '', 1).isdigit():
-                value = item
-            elif value is None:
-                if item == "H" or item == "L":
-                    hi_low = item
-                else:
-                    test_name_parts.append(item)
-            else:
-                test_value_index = entry.index(value)
-                range_parts = entry[test_value_index+1:]
-                # After the test value, we gather range and units
-                # if '-' in result:
-                #     range_index = entry.index('-')
-                #     range_parts = entry[range_index - 1:]
-                # else:
-                #     range_parts.append(item)
-                if "New" in range_parts:
-                    comments_index = range_parts.index("New")
-                    comment_parts = range_parts[comments_index:]
-                    range_parts = range_parts[:comments_index]
 
-    
-    paramter = " ".join(test_name_parts)
-    test_range = " ".join(range_parts)
-    comments = " ".join(comment_parts)
+    newLine = " ".join(values)
+    value = find_first_number(newLine)
+    remaining = ""
+    if value is not None:
+        valueIndex = newLine.find(value)
+        if valueIndex != -1:
+            remaining = newLine[:valueIndex]
+        if remaining != "":
+            if ">" in remaining:
+                value = ">" + value
+            elif "<" in remaining:
+                value = "<" + value
+            elif ">=" in remaining:
+                value = ">=" + value
+            elif "<=" in remaining:
+                value = "<=" + value
 
-    if paramter == "" or value == None or test_range == "":
+        newLine = newLine.replace(remaining, "")
+        newLine = newLine.replace(value, "")
+
+    test_range = newLine.strip()
+
+    if parameter_name == "" or value == "" or test_range == "":
         return None
     return {
         "Test Name": test_name,
-        "Parameter": paramter,
+        "Parameter": parameter_name,
         "Value": value,
         "Range": test_range,
-        "Comments": comments,
         "H/L": hi_low,
     }
 
@@ -174,22 +270,27 @@ def extract_and_parse_pdf(file_path, filename=""):
     newLines = [line for line in newLines if not any(word in line for word in PATIENT_DATA_KEYS)]
     
     if isExplanation == False:
-        newLines = [line for line in newLines if not any(word in line for word in ["Test", "Result", "Range", "Comment"])]
+        newLines = [line for line in newLines if not any(word in line for word in ["Result", "Range", "Units"])]
         results = []
         test_name = None
         if len(newLines) > 0:
             for line in newLines:
-                values = line.split(" ")
-                values = [value.strip() for value in values]
-                values = [value for value in values if value != ""]
-                numbers = get_numerical_values(line)
-                if len(numbers) == 0:
-                    test_name = line
-                    # print(test_name)
-                else:
-                    result = extract_results(values, test_name)
-                    if result != None:
-                        results.append(result)
+                for key in TEST_NAMES:
+                    if key in line:
+                        test_name = key
+                        break
+                parameter_name = None
+                for key in RESULTS_DATA_KEYS:
+                    if key in line:
+                        parameter_name = key
+                        break
+                if parameter_name == None:
+                    continue
+                line = line.replace(parameter_name, "")
+                # print(test_name)
+                result = extract_results(line, test_name, parameter_name)
+                if result != None:
+                    results.append(result)
 
         return { "filename": filename, "isExplanation": isExplanation, "patient_data": patientData, "results": results  }
     else:

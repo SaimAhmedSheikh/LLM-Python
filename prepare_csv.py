@@ -24,3 +24,15 @@ output_file_path = "results.csv"
 write_data_to_csv(csv_data, output_file_path)
 print(f"Data has been written to {output_file_path}")
 
+test_size = 0.1
+train_size = 1-test_size
+train_data = csv_data[:int(len(csv_data)*train_size)]
+test_data = csv_data[int(len(csv_data)*train_size):]
+
+output_file_path = "train.csv"
+write_data_to_csv(train_data, output_file_path)
+print(f"Data has been written to {output_file_path}")
+
+output_file_path = "test.csv"
+write_data_to_csv(test_data, output_file_path)
+print(f"Data has been written to {output_file_path}")

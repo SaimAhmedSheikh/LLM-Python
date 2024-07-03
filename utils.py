@@ -36,7 +36,7 @@ def write_data_to_csv(json_data, csv_file_path):
     # Open the CSV file for writing
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as csv_file:
         # Create a CSV DictWriter object
-        writer = csv.DictWriter(csv_file, fieldnames=json_data[0].keys())
+        writer = csv.DictWriter(csv_file, fieldnames=json_data[0].keys(), delimiter='|')
         
         # Write the header
         writer.writeheader()
@@ -45,3 +45,18 @@ def write_data_to_csv(json_data, csv_file_path):
         for row in json_data:
             writer.writerow(row)
 
+def extract_substring(input_string, keyword):
+    # Use regular expression to find the substring "White Blood Cells"
+    match = re.search(re.escape(keyword), input_string)
+    if match:
+        return match.group(0)
+    else:
+        return None
+
+def find_first_number(input_string):
+    # Use regular expression to find the first occurrence of a numerical value
+    match = re.search(r"\d+(\.\d+)?", input_string)
+    if match:
+        return match.group(0)
+    else:
+        return None

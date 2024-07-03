@@ -1,0 +1,28 @@
+[
+  {
+    "file_name": "240336603_ResultsReport(5126)YRV-240336603 - 5-Mar-2024-13_35_44",
+    "results": {
+      "patient_data": {
+        "surname": "mcphee",
+        "forename": "craig",
+        "date_of_birth": "07/02/1981",
+        "sample_number": "YRV-240336603",
+        "sex": "Male",
+        "lab_no": "5126",
+        "sample_dated": "03/03/2024 13",
+        "sample_received": "05/03/2024 12",
+        "result_reported": "05/03/2024 12",
+        "sample_type": "V - Yellow"
+      },
+      "results": [
+        {
+          "Test Name": "Hormone",
+          "Parameter": "Testosterone",
+          "Value": "9.98",
+          "Range": "8.64 - 29 nmol/l",
+          "H/L": null
+        }
+      ]
+    }
+  }
+]
